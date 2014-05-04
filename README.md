@@ -5,4 +5,5 @@ page "/elements/*", :layout => false
 => To start development server:
 
 $ bundle install
+
 $ bundle exec middleman server --verbose
