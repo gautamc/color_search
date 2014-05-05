@@ -1,0 +1,8 @@
+link rel="import" href="./polymer/polymer.html"
+
+polymer-element name="colors-list"
+  template
+    template repeat="{{colors}}"
+      button type="button" class="btn color-{{name}} sibling-elem-margin"
+        | {{name}}
+  script src="./colors-list.js"
