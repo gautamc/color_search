@@ -2,7 +2,7 @@ link rel="import" href="./polymer/polymer.html"
 
 polymer-element name="colors-list"
   template
-    template repeat="{{colors}}"
-      button type="button" class="btn color-{{name}} sibling-elem-margin"
-        | {{name}}
+    template repeat="{{color in colors }}"
+      button type="button" class="btn color-{{ color.name | stripLeadingHash }} sibling-elem-margin"
+        | &nbsp;
   script src="./colors-list.js"
