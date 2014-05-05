@@ -68,3 +68,158 @@ $sibling-elem-margin: 2px;
   @extend .btn-default:focus;
   background-color: #FFFFFF;
 }
+
+
+@mixin color-hex($hex_value) {
+  @extend .btn-default;
+  background-color: $hex_value;
+}
+@mixin color-hex-hover($hex_value) {
+  @extend .btn-default:hover;
+  background-color: $hex_value;
+}
+@mixin color-hex-focus($hex_value) {
+  @extend .btn-default:focus;
+  background-color: $hex_value;
+}
+
+.color-F0F8FF { @include color-hex(#F0F8FF); }
+.color-FAEBD7 { @include color-hex(#FAEBD7); }
+.color-00FFFF { @include color-hex(#00FFFF); }
+.color-7FFFD4 { @include color-hex(#7FFFD4); }
+.color-F0FFFF { @include color-hex(#F0FFFF); }
+.color-F5F5DC { @include color-hex(#F5F5DC); }
+.color-FFE4C4 { @include color-hex(#FFE4C4); }
+.color-000000 { @include color-hex(#000000); }
+.color-FFEBCD { @include color-hex(#FFEBCD); }
+.color-0000FF { @include color-hex(#0000FF); }
+.color-8A2BE2 { @include color-hex(#8A2BE2); }
+.color-A52A2A { @include color-hex(#A52A2A); }
+.color-DEB887 { @include color-hex(#DEB887); }
+.color-5F9EA0 { @include color-hex(#5F9EA0); }
+.color-7FFF00 { @include color-hex(#7FFF00); }
+.color-D2691E { @include color-hex(#D2691E); }
+.color-FF7F50 { @include color-hex(#FF7F50); }
+.color-6495ED { @include color-hex(#6495ED); }
+.color-FFF8DC { @include color-hex(#FFF8DC); }
+.color-DC143C { @include color-hex(#DC143C); }
+.color-00FFFF { @include color-hex(#00FFFF); }
+.color-00008B { @include color-hex(#00008B); }
+.color-008B8B { @include color-hex(#008B8B); }
+.color-B8860B { @include color-hex(#B8860B); }
+.color-A9A9A9 { @include color-hex(#A9A9A9); }
+.color-006400 { @include color-hex(#006400); }
+.color-BDB76B { @include color-hex(#BDB76B); }
+.color-8B008B { @include color-hex(#8B008B); }
+.color-556B2F { @include color-hex(#556B2F); }
+.color-FF8C00 { @include color-hex(#FF8C00); }
+.color-9932CC { @include color-hex(#9932CC); }
+.color-8B0000 { @include color-hex(#8B0000); }
+.color-E9967A { @include color-hex(#E9967A); }
+.color-8FBC8F { @include color-hex(#8FBC8F); }
+.color-483D8B { @include color-hex(#483D8B); }
+.color-2F4F4F { @include color-hex(#2F4F4F); }
+.color-00CED1 { @include color-hex(#00CED1); }
+.color-9400D3 { @include color-hex(#9400D3); }
+.color-FF1493 { @include color-hex(#FF1493); }
+.color-00BFFF { @include color-hex(#00BFFF); }
+.color-696969 { @include color-hex(#696969); }
+.color-1E90FF { @include color-hex(#1E90FF); }
+.color-B22222 { @include color-hex(#B22222); }
+.color-FFFAF0 { @include color-hex(#FFFAF0); }
+.color-228B22 { @include color-hex(#228B22); }
+.color-FF00FF { @include color-hex(#FF00FF); }
+.color-DCDCDC { @include color-hex(#DCDCDC); }
+.color-F8F8FF { @include color-hex(#F8F8FF); }
+.color-FFD700 { @include color-hex(#FFD700); }
+.color-DAA520 { @include color-hex(#DAA520); }
+.color-808080 { @include color-hex(#808080); }
+.color-008000 { @include color-hex(#008000); }
+.color-ADFF2F { @include color-hex(#ADFF2F); }
+.color-F0FFF0 { @include color-hex(#F0FFF0); }
+.color-FF69B4 { @include color-hex(#FF69B4); }
+.color-CD5C5C { @include color-hex(#CD5C5C); }
+.color-4B0082 { @include color-hex(#4B0082); }
+.color-FFFFF0 { @include color-hex(#FFFFF0); }
+.color-F0E68C { @include color-hex(#F0E68C); }
+.color-E6E6FA { @include color-hex(#E6E6FA); }
+.color-FFF0F5 { @include color-hex(#FFF0F5); }
+.color-7CFC00 { @include color-hex(#7CFC00); }
+.color-FFFACD { @include color-hex(#FFFACD); }
+.color-ADD8E6 { @include color-hex(#ADD8E6); }
+.color-F08080 { @include color-hex(#F08080); }
+.color-E0FFFF { @include color-hex(#E0FFFF); }
+.color-FAFAD2 { @include color-hex(#FAFAD2); }
+.color-D3D3D3 { @include color-hex(#D3D3D3); }
+.color-90EE90 { @include color-hex(#90EE90); }
+.color-FFB6C1 { @include color-hex(#FFB6C1); }
+.color-FFA07A { @include color-hex(#FFA07A); }
+.color-20B2AA { @include color-hex(#20B2AA); }
+.color-87CEFA { @include color-hex(#87CEFA); }
+.color-778899 { @include color-hex(#778899); }
+.color-B0C4DE { @include color-hex(#B0C4DE); }
+.color-FFFFE0 { @include color-hex(#FFFFE0); }
+.color-00FF00 { @include color-hex(#00FF00); }
+.color-32CD32 { @include color-hex(#32CD32); }
+.color-FAF0E6 { @include color-hex(#FAF0E6); }
+.color-FF00FF { @include color-hex(#FF00FF); }
+.color-800000 { @include color-hex(#800000); }
+.color-66CDAA { @include color-hex(#66CDAA); }
+.color-0000CD { @include color-hex(#0000CD); }
+.color-BA55D3 { @include color-hex(#BA55D3); }
+.color-9370DB { @include color-hex(#9370DB); }
+.color-3CB371 { @include color-hex(#3CB371); }
+.color-7B68EE { @include color-hex(#7B68EE); }
+.color-00FA9A { @include color-hex(#00FA9A); }
+.color-48D1CC { @include color-hex(#48D1CC); }
+.color-C71585 { @include color-hex(#C71585); }
+.color-191970 { @include color-hex(#191970); }
+.color-F5FFFA { @include color-hex(#F5FFFA); }
+.color-FFE4E1 { @include color-hex(#FFE4E1); }
+.color-FFE4B5 { @include color-hex(#FFE4B5); }
+.color-FFDEAD { @include color-hex(#FFDEAD); }
+.color-000080 { @include color-hex(#000080); }
+.color-FDF5E6 { @include color-hex(#FDF5E6); }
+.color-808000 { @include color-hex(#808000); }
+.color-6B8E23 { @include color-hex(#6B8E23); }
+.color-FFA500 { @include color-hex(#FFA500); }
+.color-FF4500 { @include color-hex(#FF4500); }
+.color-DA70D6 { @include color-hex(#DA70D6); }
+.color-EEE8AA { @include color-hex(#EEE8AA); }
+.color-98FB98 { @include color-hex(#98FB98); }
+.color-AFEEEE { @include color-hex(#AFEEEE); }
+.color-DB7093 { @include color-hex(#DB7093); }
+.color-FFEFD5 { @include color-hex(#FFEFD5); }
+.color-FFDAB9 { @include color-hex(#FFDAB9); }
+.color-CD853F { @include color-hex(#CD853F); }
+.color-FFC0CB { @include color-hex(#FFC0CB); }
+.color-DDA0DD { @include color-hex(#DDA0DD); }
+.color-B0E0E6 { @include color-hex(#B0E0E6); }
+.color-800080 { @include color-hex(#800080); }
+.color-FF0000 { @include color-hex(#FF0000); }
+.color-BC8F8F { @include color-hex(#BC8F8F); }
+.color-4169E1 { @include color-hex(#4169E1); }
+.color-8B4513 { @include color-hex(#8B4513); }
+.color-FA8072 { @include color-hex(#FA8072); }
+.color-F4A460 { @include color-hex(#F4A460); }
+.color-2E8B57 { @include color-hex(#2E8B57); }
+.color-FFF5EE { @include color-hex(#FFF5EE); }
+.color-A0522D { @include color-hex(#A0522D); }
+.color-C0C0C0 { @include color-hex(#C0C0C0); }
+.color-87CEEB { @include color-hex(#87CEEB); }
+.color-6A5ACD { @include color-hex(#6A5ACD); }
+.color-708090 { @include color-hex(#708090); }
+.color-FFFAFA { @include color-hex(#FFFAFA); }
+.color-00FF7F { @include color-hex(#00FF7F); }
+.color-4682B4 { @include color-hex(#4682B4); }
+.color-D2B48C { @include color-hex(#D2B48C); }
+.color-008080 { @include color-hex(#008080); }
+.color-D8BFD8 { @include color-hex(#D8BFD8); }
+.color-FF6347 { @include color-hex(#FF6347); }
+.color-40E0D0 { @include color-hex(#40E0D0); }
+.color-EE82EE { @include color-hex(#EE82EE); }
+.color-F5DEB3 { @include color-hex(#F5DEB3); }
+.color-FFFFFF { @include color-hex(#FFFFFF); }
+.color-F5F5F5 { @include color-hex(#F5F5F5); }
+.color-FFFF00 { @include color-hex(#FFFF00); }
+.color-9ACD32 { @include color-hex(#9ACD32); }
