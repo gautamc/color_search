@@ -8,3 +8,9 @@ jQuery(document).ready(function(){
         allowEmpty:true
     });
 });
+
+document.addEventListener(
+    "DOMContentLoaded",
+    function(){
+    }
+)

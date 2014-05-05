@@ -34,12 +34,11 @@ html.no-js lang="en"
           a.navbar-brand Search By Color
 
     div.container-fluid
-      .row
-        .col-lg-12
-          = yield
+      = yield
 
       footer
         p &copy; 2014
 
-    script src="javascripts/all.js"
     link rel="import" href="elements/color-spectrum.html"
+    link rel="import" href="elements/colors-list.html"
+    script src="javascripts/all.js"
