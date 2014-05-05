@@ -14,73 +14,23 @@ $sibling-elem-margin: 2px;
   margin: $sibling-elem-margin;
 }
 
-.color-red {
-  @extend .btn-default;
-  background-color: #FF0000;
-}
-.color-red:hover {
-  @extend .btn-default:hover;
-  background-color: #FF0000;
-}
-.color-red:focus {
-  @extend .btn-default:focus;
-  background-color: #FF0000;
-}
-
-.color-green {
-  @extend .btn-default;
-  background-color: #00FF00;
-}
-.color-green:hover {
-  @extend .btn-default:hover;
-  background-color: #00FF00;
-}
-.color-green:focus {
-  @extend .btn-default:focus;
-  background-color: #00FF00;
-}
-
-.color-blue {
-  @extend .btn-default;
-  background-color: #0000FF;
-  color: #FFFFFF;
-}
-.color-blue:hover {
-  @extend .btn-default:hover;
-  background-color: #0000FF;
-  color: #FFFFFF;
-}
-.color-blue:focus {
-  @extend .btn-default:focus;
-  background-color: #0000FF;
-  color: #FFFFFF;
-}
-
-.color-white {
-  @extend .btn-default;
-  background-color: #FFFFFF;
-}
-.color-white:hover {
-  @extend .btn-default:hover;
-  background-color: #FFFFFF;
-}
-.color-white:focus {
-  @extend .btn-default:focus;
-  background-color: #FFFFFF;
-}
-
-
 @mixin color-hex($hex_value) {
   @extend .btn-default;
   background-color: $hex_value;
+  height: 20px;
+  width: 20px;
 }
 @mixin color-hex-hover($hex_value) {
   @extend .btn-default:hover;
   background-color: $hex_value;
+  height: 20px;
+  width: 20px;
 }
 @mixin color-hex-focus($hex_value) {
   @extend .btn-default:focus;
   background-color: $hex_value;
+  height: 20px;
+  width: 20px;
 }
 
 .color-F0F8FF { @include color-hex(#F0F8FF); }

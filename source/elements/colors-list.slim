@@ -4,5 +4,4 @@ polymer-element name="colors-list"
   template
     template repeat="{{color in colors }}"
       button type="button" class="btn color-{{ color.name | stripLeadingHash }} sibling-elem-margin"
-        | &nbsp;
   script src="./colors-list.js"

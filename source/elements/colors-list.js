@@ -6,8 +6,7 @@ Polymer(
         },
         ready: function(){
             this.colors = [
-                { name: "red" }, { name: "green" }, { name: "blue" }, { name: "white" }, {name: "#F0F8FF"}, {name: "#FAEBD7"}, {name: "#00FFFF"},
-                {name: "#7FFFD4"}, {name: "#F0FFFF"}, {name: "#F5F5DC"}, {name: "#FFE4C4"}, {name: "#000000"}, {name: "#FFEBCD"}, {name: "#0000FF"},
+                {name: "#F0F8FF"}, {name: "#FAEBD7"}, {name: "#00FFFF"}, {name: "#7FFFD4"}, {name: "#F0FFFF"}, {name: "#F5F5DC"}, {name: "#FFE4C4"},
                 {name: "#8A2BE2"}, {name: "#A52A2A"}, {name: "#DEB887"}, {name: "#5F9EA0"}, {name: "#7FFF00"}, {name: "#D2691E"}, {name: "#FF7F50"},
                 {name: "#6495ED"}, {name: "#FFF8DC"}, {name: "#DC143C"}, {name: "#00FFFF"}, {name: "#00008B"}, {name: "#008B8B"}, {name: "#B8860B"},
                 {name: "#A9A9A9"}, {name: "#006400"}, {name: "#BDB76B"}, {name: "#8B008B"}, {name: "#556B2F"}, {name: "#FF8C00"}, {name: "#9932CC"},
@@ -26,7 +25,7 @@ Polymer(
                 {name: "#4169E1"}, {name: "#8B4513"}, {name: "#FA8072"}, {name: "#F4A460"}, {name: "#2E8B57"}, {name: "#FFF5EE"}, {name: "#A0522D"},
                 {name: "#C0C0C0"}, {name: "#87CEEB"}, {name: "#6A5ACD"}, {name: "#708090"}, {name: "#FFFAFA"}, {name: "#00FF7F"}, {name: "#4682B4"},
                 {name: "#D2B48C"}, {name: "#008080"}, {name: "#D8BFD8"}, {name: "#FF6347"}, {name: "#40E0D0"}, {name: "#EE82EE"}, {name: "#F5DEB3"},
-                {name: "#FFFFFF"}, {name: "#F5F5F5"}, {name: "#FFFF00"}, {name: "#9ACD32"}
+                {name: "#FFFFFF"}, {name: "#F5F5F5"}, {name: "#FFFF00"}, {name: "#9ACD32"}, {name: "#000000"}, {name: "#FFEBCD"}, {name: "#0000FF"}
             ]
         }
     }
