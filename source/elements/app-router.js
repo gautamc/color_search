@@ -1,6 +1,9 @@
 Polymer(
+
     "app-router", {
+
         routes: [],
+
         ready: function(){
             var my = this;
 
@@ -11,6 +14,7 @@ Polymer(
                 my.handle_route_change(new_value, old_value);
             });
         },
+
         get_route: function() {
             var my = this;
             var path = window.location.hash || "#";
@@ -26,9 +30,11 @@ Polymer(
             })[0];
             return matching_route;
         },
+
         handle_route_change: function(new_route, old_route) {
             this.render_view( this.get_route() );
         },
+
         render_view: function(route){
             if( this.has_variable_p( route.urn ) ) {
 
@@ -62,9 +68,11 @@ Polymer(
 
             }
         },
+
         has_variable_p: function(route_urn){
             return route_urn.match(/:\w+/) != null;
         },
+
         extract_variable: function(hash_path, route_urn) {
             var urn_re = new RegExp( route_urn.replace(/:\w+/, '(.+)') );
             var urn_match = hash_path.match(urn_re);
@@ -73,5 +81,7 @@ Polymer(
             }
             return null;
         }
+
     }
+
 );
