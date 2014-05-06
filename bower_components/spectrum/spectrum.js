@@ -1045,7 +1045,6 @@
                        a modified implementation that doesn't use jQuery.contains(...) */
                     //offset = $(element).offset();
                     offset = find_offset( $(element) );
-                    console.log( offset );
 
                     $(doc).bind(duringDragEvents);
                     $(doc.body).addClass("sp-dragging");
