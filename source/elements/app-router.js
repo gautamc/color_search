@@ -4,7 +4,7 @@ Polymer(
         ready: function(){
             var my = this;
 
-            console.log( this.get_route() );
+            this.render_view( this.get_route() );
 
             var observer = new PathObserver(window, 'location.hash');
             observer.open(function(new_value, old_value) { 
@@ -12,9 +12,10 @@ Polymer(
             });
         },
         get_route: function() {
+            var my = this;
             var path = window.location.hash || "#";
             var matching_route = this.routes.filter(function(route){
-                if( route.urn.match(/:\w+/) != null ) {
+                if( my.has_variable_p( route.urn ) ) {
                     var urn_re = new RegExp( route.urn.replace(/:\w+/, '.+') );
                     if ( path.match(urn_re) != null ) {
                         return true;
@@ -26,10 +27,29 @@ Polymer(
             return matching_route;
         },
         handle_route_change: function(new_route, old_route) {
-            console.log( this.get_route() );
+            this.render_view( this.get_route() );
         },
-        render_view: function(){
-            
+        render_view: function(route){
+            if( this.has_variable_p( route.urn ) ) {
+                var variable_in_urn = this.extract_variable(
+                    window.location.hash || "#",
+                    route.urn
+                );
+                console.log( route.name, " : ", variable_in_urn )
+            } else {
+                console.log( route.name );
+            }
+        },
+        has_variable_p: function(route_urn){
+            return route_urn.match(/:\w+/) != null;
+        },
+        extract_variable: function(hash_path, route_urn) {
+            var urn_re = new RegExp( route_urn.replace(/:\w+/, '(.+)') );
+            var urn_match = hash_path.match(urn_re);
+            if ( urn_match != null ) {
+                return urn_match[1];
+            }
+            return null;
         }
     }
 );
