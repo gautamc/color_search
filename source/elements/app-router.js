@@ -36,13 +36,14 @@ Polymer(
                 var container = document.getElementById(route.name);
 
                 if( container.childNodes.length == 0 ) {
-                    // TODO: Figure out how to create an element and set its attribute in one atomic operation
                     var view = document.createElement(route.name);
                     view.params = { input: variable_in_urn };
-                    // TODO: Figure out how to create an element and set its attribute in one atomic operation
                     container.appendChild(view);
+                    view.render();
                 } else {
-                    document.querySelector(route.name).params = { input: variable_in_urn };
+                    var view = document.querySelector(route.name);
+                    view.params = { input: variable_in_urn };
+                    view.render();
                 }
 
             } else {
@@ -52,8 +53,11 @@ Polymer(
                 if( container.childNodes.length == 0 ) {
                     var view = document.createElement(route.name);
                     container.appendChild(view);
+                    view.render();
                 } else {
-                    document.querySelector(route.name).params = { input: null };
+                    var view = document.querySelector(route.name);
+                    view.params = { input: null };
+                    view.render();
                 }
 
             }

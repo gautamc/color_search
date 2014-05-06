@@ -1,12 +1,14 @@
 Polymer(
     "home-view", {
-        params: {},
-        results: "",
         ready: function(){
-            //console.log( this.params );
+            this.params = {};
+            this.results = "";
         },
         paramsChanged: function(old_value, new_value) {
-            this.results = "Query and Display results for color: " + new_value.input;
+            this.render();
+        },
+        render: function(){
+            this.results = "Query and Display results for color: " + this.params.input;
         }
     }
 );
