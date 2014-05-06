@@ -31,13 +31,31 @@ Polymer(
         },
         render_view: function(route){
             if( this.has_variable_p( route.urn ) ) {
-                var variable_in_urn = this.extract_variable(
-                    window.location.hash || "#",
-                    route.urn
-                );
-                console.log( route.name, " : ", variable_in_urn )
+
+                var variable_in_urn = this.extract_variable(window.location.hash || "#", route.urn);
+                var container = document.getElementById(route.name);
+
+                if( container.childNodes.length == 0 ) {
+                    // TODO: Figure out how to create an element and set its attribute in one atomic operation
+                    var view = document.createElement(route.name);
+                    view.params = { input: variable_in_urn };
+                    // TODO: Figure out how to create an element and set its attribute in one atomic operation
+                    container.appendChild(view);
+                } else {
+                    document.querySelector(route.name).params = { input: variable_in_urn };
+                }
+
             } else {
-                console.log( route.name );
+
+                var container = document.getElementById(route.name);
+
+                if( container.childNodes.length == 0 ) {
+                    var view = document.createElement(route.name);
+                    container.appendChild(view);
+                } else {
+                    document.querySelector(route.name).params = { input: null };
+                }
+
             }
         },
         has_variable_p: function(route_urn){
