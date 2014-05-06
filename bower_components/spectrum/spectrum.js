@@ -967,6 +967,37 @@
         duringDragEvents["touchmove mousemove"] = move;
         duringDragEvents["touchend mouseup"] = stop;
 
+        var getWindow = function( elem ) {
+	    return jQuery.isWindow( elem ) ?
+                   elem :
+                   elem.nodeType === 9 ?
+		       elem.defaultView || elem.parentWindow :
+		       false;
+        }
+
+        var find_offset = function(element) {
+            var docElem, win, box = { top: 0, left: 0 }, element = element[ 0 ], doc = element && element.ownerDocument;
+            var core_strundefined = typeof undefined;
+
+	    if ( !doc ) {
+		return;
+	    }
+
+	    docElem = doc.documentElement;
+
+            // If we don't have gBCR, just use 0,0 rather than error
+	    // BlackBerry 5, iOS 3 (original iPhone)
+	    if ( typeof element.getBoundingClientRect !== core_strundefined ) {
+		box = element.getBoundingClientRect();
+	    }
+
+            win = getWindow( doc );
+            return {
+		top: box.top  + ( win.pageYOffset || docElem.scrollTop )  - ( docElem.clientTop  || 0 ),
+		left: box.left + ( win.pageXOffset || docElem.scrollLeft ) - ( docElem.clientLeft || 0 )
+	    };
+        }
+
         function prevent(e) {
             if (e.stopPropagation) {
                 e.stopPropagation();
@@ -1009,7 +1040,12 @@
                     dragging = true;
                     maxHeight = $(element).height();
                     maxWidth = $(element).width();
-                    offset = $(element).offset();
+
+                    /* Commenting out usage of jQuery's offset method and using 
+                       a modified implementation that doesn't use jQuery.contains(...) */
+                    //offset = $(element).offset();
+                    offset = find_offset( $(element) );
+                    console.log( offset );
 
                     $(doc).bind(duringDragEvents);
                     $(doc.body).addClass("sp-dragging");
