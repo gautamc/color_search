@@ -26,11 +26,5 @@ document.addEventListener(
 document.addEventListener(
     "polymer-ready",
     function(){
-        jQuery("#color-picker").spectrum({
-            preferredFormat: "hex",
-            flat: true,
-            showInput: true,
-            allowEmpty:true
-        });
     }
 )
