@@ -1,0 +1,14 @@
+link rel="import" href="./polymer/polymer.html"
+
+polymer-element name="home-view" attributes="params"
+  template
+    div.row#search-bar
+      div.col-md-10.top-margin
+        colors-list
+
+      div.col-md-2.top-margin#color-picker-box
+        input type="text" id="color-picker"
+
+    div.row
+      div.col-md-12.top-margin#results-view
+  script src="./home-view.js"

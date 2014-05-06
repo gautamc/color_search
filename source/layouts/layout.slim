@@ -44,10 +44,12 @@ html.no-js lang="en"
       footer
         p &copy; 2014
 
-    <app-router routes='[ { "name": "home-view",  "urn": "#" }, { "name": "color-view", "urn": "#color/:color" }, { "name": "help-view", "urn": "#help" }, { "name": "about-view", "urn": "#about" } ]'>
+    <app-router routes='[ { "name": "home-view",  "urn": "#" }, { "name": "home-view", "urn": "#color/:color" }, { "name": "help-view", "urn": "#help" }, { "name": "about-view", "urn": "#about" } ]'>
     </app-router>
 
-    link rel="import" href="elements/app-router.html"
     link rel="import" href="elements/color-spectrum.html"
     link rel="import" href="elements/colors-list.html"
+    link rel="import" href="elements/home-view.html"
+    link rel="import" href="elements/results-view.html"
+    link rel="import" href="elements/app-router.html"
     script src="javascripts/all.js"
