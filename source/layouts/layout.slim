@@ -33,12 +33,21 @@ html.no-js lang="en"
         div.navbar-header
           a.navbar-brand Search By Color
 
+          a.navbar-brand href="#about"
+            | About
+          a.navbar-brand href="#help"
+            | Help
+
     div.container-fluid
       = yield
 
       footer
         p &copy; 2014
 
+    <app-router routes='[ { "name": "home",  "urn": "#" }, { "name": "result", "urn": "#result/:color" }, { "name": "help", "urn": "#help" }, { "name": "about", "urn": "#about" } ]'>
+    </app-router>
+
+    link rel="import" href="elements/app-router.html"
     link rel="import" href="elements/color-spectrum.html"
     link rel="import" href="elements/colors-list.html"
     script src="javascripts/all.js"
