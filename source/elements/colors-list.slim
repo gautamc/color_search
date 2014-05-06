@@ -3,5 +3,5 @@ link rel="import" href="./polymer/polymer.html"
 polymer-element name="colors-list"
   template
     template repeat="{{color in colors }}"
-      button type="button" class="btn color-{{ color.name | stripLeadingHash }} sibling-elem-margin"
+      a href="#color/{{ color.name }}" class="btn color-{{ color.name | stripLeadingHash }} sibling-elem-margin"
   script src="./colors-list.js"
