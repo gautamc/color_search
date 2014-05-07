@@ -1,4 +1,5 @@
 link rel="import" href="./polymer/polymer.html"
+link rel="import" href="./polymer-ajax/polymer-ajax.html"
 
 polymer-element name="home-view" attributes="params"
   template
@@ -9,8 +10,14 @@ polymer-element name="home-view" attributes="params"
       div.col-md-2.top-margin#color-picker-box
         input type="text" id="color_picker"
 
+    <polymer-ajax id="google_feed" url="http://gdata.youtube.com/feeds/api/videos/" params='' handleAs="json" on-polymer-response="{{feed_results_callback}}">
+    </polymer-ajax>
+
     div.row
       div.col-md-12.top-margin#results-view
         h1
           | {{ results }}
+        template id="results_listing" repeat="{{response.feed.entry}}"
+          div
+            | {{title.$t}}
   script src="./home-view.js"
