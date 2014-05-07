@@ -22,7 +22,7 @@ Polymer(
                 "Query and Display results for color: " + this.params.input :
                 "No color selected";
             var ajax = this.$.rately_feed;
-            ajax.params = { payload: { colors: [ this.params.input ], keywords: ["candle"] } };
+            ajax.body = JSON.stringify( { payload: { colors: [this.params.input == null ? "" : this.params.input], keywords: ["candle"] } } );
             ajax.go();
         },
 
