@@ -14,6 +14,15 @@ $sibling-elem-margin: 2px;
   margin: $sibling-elem-margin;
 }
 
+.summary {
+  margin-bottom: 25px;
+}
+.gallery_item {
+  height: 250px;
+  width: 250px;
+  margin-bottom: 25px;
+}
+
 @mixin color-hex($hex_value) {
   @extend .btn-default;
   background-color: $hex_value;
