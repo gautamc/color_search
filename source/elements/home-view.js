@@ -15,7 +15,6 @@ Polymer(
         },
 
         paramsChanged: function(old_value, new_value) {
-            this.render();
         },
 
         render: function(){
@@ -23,7 +22,7 @@ Polymer(
                 "Query and Display results for color: " + this.params.input :
                 "No color selected";
             var ajax = this.$.google_feed;
-            ajax.params = {"alt":"json", "q":"firefox"};
+            ajax.params = { "alt":"json", "q": this.params.input };
             ajax.go();
         },
 
