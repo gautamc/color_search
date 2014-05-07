@@ -21,8 +21,8 @@ Polymer(
             this.results = this.params.input ?
                 "Query and Display results for color: " + this.params.input :
                 "No color selected";
-            var ajax = this.$.google_feed;
-            ajax.params = { "alt":"json", "q": this.params.input };
+            var ajax = this.$.rately_feed;
+            ajax.params = { payload: { colors: [ this.params.input ], keywords: ["candle"] } };
             ajax.go();
         },
 
