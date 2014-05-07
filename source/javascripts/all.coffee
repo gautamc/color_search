@@ -1,5 +1,3 @@
-#= stub ./vendor/modernizr
-#= stub ./vendor/platform
-#= require_tree "./vendor"
+#= require "vendor/jquery.min.js"
 #= require "spectrum/spectrum"
 #= require "./main.js"
