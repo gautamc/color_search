@@ -11,14 +11,25 @@ polymer-element name="home-view" attributes="params"
         input type="text" id="color_picker"
 
     polymer-ajax id="rately_feed" method="POST" url="http://rately.com/api/products/search" body="" contentType="application/json" handleAs="json" on-polymer-response="{{feed_results_callback}}"
+    /polymer-ajax id="rately_feed" url="./json/colorsearch.json" params="" contentType="application/json" handleAs="json" on-polymer-response="{{feed_results_callback}}"
 
     div.row
       div.col-md-12.top-margin#results-view
-        h1
-          | {{ results }}
-        template id="results_listing" repeat="{{response.products}}"
-          div
-            | {{title}}
-            | {{price}}
-            img src="{{image_url}}"
+
+        template id="results_listing" bind="{{response}}"
+          div.summary
+            b Found {{pagination.total_objects}} matching objects.
+            br
+            b Showing page {{pagination.page}} of {{pagination.total_pages}} pages.
+
+          template repeat="{{products}}"
+            div.col-md-1.gallery_item
+              div
+                | {{title}}
+              div
+                | {{price}}
+              div
+                | {{store.name}} - {{store.domain}}
+              img src="{{cdn_image.medium.url}}"
+
   script src="./home-view.js"
