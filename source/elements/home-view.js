@@ -5,6 +5,7 @@ Polymer(
         ready: function(){
             this.params = {};
             this.loading = false;
+            this.timed_loader_handle = null;
 
             jQuery(this.$.color_picker).spectrum({
                 preferredFormat: "hex",
@@ -22,9 +23,16 @@ Polymer(
         },
 
         render: function(){
-            this.loading = true;
+
+            var my = this;
+            this.timed_loader_handle = window.setTimeout(
+                function () { if ( my.timed_loader_handle != null ) { my.loading = true; } },
+                1000
+            );
+
             var ajax = this.$.rately_feed;
             ajax.body = JSON.stringify( { payload: { colors: [this.params.input == null ? "" : this.params.input], keywords: ["candle"] } } );
+            // window.setTimeout(function() { ajax.go(); }, 3000); /* simulating 3 second network delay */
             ajax.go();
         },
 
@@ -36,6 +44,9 @@ Polymer(
         },
 
         feed_results_complete_callback: function(response, xhr) {
+            if( this.timed_loader_handle != null ) {
+                window.clearInterval( this.timed_loader_handle );
+            }
             this.loading = false;
         }
 
