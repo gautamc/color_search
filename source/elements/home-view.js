@@ -13,7 +13,7 @@ Polymer(
                 allowEmpty:true,
                 cancelText: "",
                 change: function(color) {
-                    window.location.href = window.location.origin + "#color/" + color.toHexString();
+                    window.location.href = window.location.origin + window.location.pathname + "#color/" + color.toHexString();
                 }
             });
         },
