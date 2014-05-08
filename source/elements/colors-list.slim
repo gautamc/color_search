@@ -1,7 +1,9 @@
 link rel="import" href="./polymer/polymer.html"
+link rel="import" href="./core-tooltip/core-tooltip.html"
 
 polymer-element name="colors-list"
   template
     template repeat="{{color in colors }}"
-      a href="#color/{{ color.name }}" class="btn color-{{ color.name | stripLeadingHash }} sibling-elem-margin"
+      core-tooltip label="{{color.name}}" position="top"
+        a href="#color/{{ color.name }}" class="btn color-{{ color.name | stripLeadingHash }} sibling-elem-margin"
   script src="./colors-list.js"
