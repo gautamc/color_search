@@ -7070,3374 +7070,3383 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
   margin-top: 10px; }
 
 /* line 13, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+#loading {
+  position: fixed;
+  top: 0px;
+  left: 45%;
+  padding: 10px;
+  border: 1px solid #000000;
+  background-color: #FF0000; }
+
+/* line 22, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .sibling-elem-margin {
   margin: 2px; }
 
-/* line 17, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 26, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .summary {
   margin-bottom: 25px; }
 
-/* line 20, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 29, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .gallery_item {
   height: 250px;
   width: 250px;
   margin-bottom: 25px; }
 
-/* line 51, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 60, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F0F8FF {
   background-color: aliceblue;
   height: 20px;
   width: 20px; }
 
-/* line 52, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 61, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FAEBD7 {
   background-color: antiquewhite;
   height: 20px;
   width: 20px; }
 
-/* line 53, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 62, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00FFFF {
   background-color: cyan;
   height: 20px;
   width: 20px; }
 
-/* line 54, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 63, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-7FFFD4 {
   background-color: aquamarine;
   height: 20px;
   width: 20px; }
 
-/* line 55, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 64, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F0FFFF {
   background-color: azure;
   height: 20px;
   width: 20px; }
 
-/* line 56, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 65, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F5F5DC {
   background-color: beige;
   height: 20px;
   width: 20px; }
 
-/* line 57, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 66, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFE4C4 {
   background-color: bisque;
   height: 20px;
   width: 20px; }
 
-/* line 58, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 67, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-000000 {
   background-color: black;
   height: 20px;
   width: 20px; }
 
-/* line 59, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 68, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFEBCD {
   background-color: blanchedalmond;
   height: 20px;
   width: 20px; }
 
-/* line 60, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 69, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-0000FF {
   background-color: blue;
   height: 20px;
   width: 20px; }
 
-/* line 61, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 70, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-8A2BE2 {
   background-color: blueviolet;
   height: 20px;
   width: 20px; }
 
-/* line 62, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 71, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-A52A2A {
   background-color: brown;
   height: 20px;
   width: 20px; }
 
-/* line 63, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 72, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DEB887 {
   background-color: burlywood;
   height: 20px;
   width: 20px; }
 
-/* line 64, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 73, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-5F9EA0 {
   background-color: cadetblue;
   height: 20px;
   width: 20px; }
 
-/* line 65, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 74, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-7FFF00 {
   background-color: chartreuse;
   height: 20px;
   width: 20px; }
 
-/* line 66, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 75, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-D2691E {
   background-color: chocolate;
   height: 20px;
   width: 20px; }
 
-/* line 67, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 76, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF7F50 {
   background-color: coral;
   height: 20px;
   width: 20px; }
 
-/* line 68, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 77, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-6495ED {
   background-color: cornflowerblue;
   height: 20px;
   width: 20px; }
 
-/* line 69, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 78, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFF8DC {
   background-color: cornsilk;
   height: 20px;
   width: 20px; }
 
-/* line 70, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 79, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DC143C {
   background-color: crimson;
   height: 20px;
   width: 20px; }
 
-/* line 71, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 80, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00FFFF {
   background-color: cyan;
   height: 20px;
   width: 20px; }
 
-/* line 72, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 81, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00008B {
   background-color: darkblue;
   height: 20px;
   width: 20px; }
 
-/* line 73, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 82, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-008B8B {
   background-color: darkcyan;
   height: 20px;
   width: 20px; }
 
-/* line 74, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 83, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-B8860B {
   background-color: darkgoldenrod;
   height: 20px;
   width: 20px; }
 
-/* line 75, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 84, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-A9A9A9 {
   background-color: darkgrey;
   height: 20px;
   width: 20px; }
 
-/* line 76, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 85, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-006400 {
   background-color: darkgreen;
   height: 20px;
   width: 20px; }
 
-/* line 77, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 86, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-BDB76B {
   background-color: darkkhaki;
   height: 20px;
   width: 20px; }
 
-/* line 78, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 87, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-8B008B {
   background-color: darkmagenta;
   height: 20px;
   width: 20px; }
 
-/* line 79, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 88, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-556B2F {
   background-color: darkolivegreen;
   height: 20px;
   width: 20px; }
 
-/* line 80, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 89, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF8C00 {
   background-color: darkorange;
   height: 20px;
   width: 20px; }
 
-/* line 81, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 90, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-9932CC {
   background-color: darkorchid;
   height: 20px;
   width: 20px; }
 
-/* line 82, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 91, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-8B0000 {
   background-color: darkred;
   height: 20px;
   width: 20px; }
 
-/* line 83, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 92, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-E9967A {
   background-color: darksalmon;
   height: 20px;
   width: 20px; }
 
-/* line 84, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 93, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-8FBC8F {
   background-color: darkseagreen;
   height: 20px;
   width: 20px; }
 
-/* line 85, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 94, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-483D8B {
   background-color: darkslateblue;
   height: 20px;
   width: 20px; }
 
-/* line 86, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 95, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-2F4F4F {
   background-color: darkslategrey;
   height: 20px;
   width: 20px; }
 
-/* line 87, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 96, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00CED1 {
   background-color: darkturquoise;
   height: 20px;
   width: 20px; }
 
-/* line 88, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 97, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-9400D3 {
   background-color: darkviolet;
   height: 20px;
   width: 20px; }
 
-/* line 89, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 98, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF1493 {
   background-color: deeppink;
   height: 20px;
   width: 20px; }
 
-/* line 90, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 99, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00BFFF {
   background-color: deepskyblue;
   height: 20px;
   width: 20px; }
 
-/* line 91, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 100, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-696969 {
   background-color: dimgrey;
   height: 20px;
   width: 20px; }
 
-/* line 92, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 101, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-1E90FF {
   background-color: dodgerblue;
   height: 20px;
   width: 20px; }
 
-/* line 93, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 102, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-B22222 {
   background-color: firebrick;
   height: 20px;
   width: 20px; }
 
-/* line 94, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 103, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFAF0 {
   background-color: floralwhite;
   height: 20px;
   width: 20px; }
 
-/* line 95, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 104, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-228B22 {
   background-color: forestgreen;
   height: 20px;
   width: 20px; }
 
-/* line 96, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 105, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF00FF {
   background-color: magenta;
   height: 20px;
   width: 20px; }
 
-/* line 97, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 106, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DCDCDC {
   background-color: gainsboro;
   height: 20px;
   width: 20px; }
 
-/* line 98, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 107, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F8F8FF {
   background-color: ghostwhite;
   height: 20px;
   width: 20px; }
 
-/* line 99, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 108, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFD700 {
   background-color: gold;
   height: 20px;
   width: 20px; }
 
-/* line 100, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 109, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DAA520 {
   background-color: goldenrod;
   height: 20px;
   width: 20px; }
 
-/* line 101, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 110, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-808080 {
   background-color: gray;
   height: 20px;
   width: 20px; }
 
-/* line 102, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 111, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-008000 {
   background-color: green;
   height: 20px;
   width: 20px; }
 
-/* line 103, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 112, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-ADFF2F {
   background-color: greenyellow;
   height: 20px;
   width: 20px; }
 
-/* line 104, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 113, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F0FFF0 {
   background-color: honeydew;
   height: 20px;
   width: 20px; }
 
-/* line 105, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 114, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF69B4 {
   background-color: hotpink;
   height: 20px;
   width: 20px; }
 
-/* line 106, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 115, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-CD5C5C {
   background-color: indianred;
   height: 20px;
   width: 20px; }
 
-/* line 107, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 116, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-4B0082 {
   background-color: indigo;
   height: 20px;
   width: 20px; }
 
-/* line 108, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 117, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFFF0 {
   background-color: ivory;
   height: 20px;
   width: 20px; }
 
-/* line 109, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 118, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F0E68C {
   background-color: khaki;
   height: 20px;
   width: 20px; }
 
-/* line 110, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 119, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-E6E6FA {
   background-color: lavender;
   height: 20px;
   width: 20px; }
 
-/* line 111, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 120, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFF0F5 {
   background-color: lavenderblush;
   height: 20px;
   width: 20px; }
 
-/* line 112, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 121, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-7CFC00 {
   background-color: lawngreen;
   height: 20px;
   width: 20px; }
 
-/* line 113, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 122, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFACD {
   background-color: lemonchiffon;
   height: 20px;
   width: 20px; }
 
-/* line 114, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 123, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-ADD8E6 {
   background-color: lightblue;
   height: 20px;
   width: 20px; }
 
-/* line 115, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 124, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F08080 {
   background-color: lightcoral;
   height: 20px;
   width: 20px; }
 
-/* line 116, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 125, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-E0FFFF {
   background-color: lightcyan;
   height: 20px;
   width: 20px; }
 
-/* line 117, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 126, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FAFAD2 {
   background-color: lightgoldenrodyellow;
   height: 20px;
   width: 20px; }
 
-/* line 118, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 127, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-D3D3D3 {
   background-color: lightgrey;
   height: 20px;
   width: 20px; }
 
-/* line 119, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 128, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-90EE90 {
   background-color: lightgreen;
   height: 20px;
   width: 20px; }
 
-/* line 120, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 129, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFB6C1 {
   background-color: lightpink;
   height: 20px;
   width: 20px; }
 
-/* line 121, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 130, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFA07A {
   background-color: lightsalmon;
   height: 20px;
   width: 20px; }
 
-/* line 122, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 131, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-20B2AA {
   background-color: lightseagreen;
   height: 20px;
   width: 20px; }
 
-/* line 123, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 132, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-87CEFA {
   background-color: lightskyblue;
   height: 20px;
   width: 20px; }
 
-/* line 124, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 133, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-778899 {
   background-color: lightslategrey;
   height: 20px;
   width: 20px; }
 
-/* line 125, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 134, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-B0C4DE {
   background-color: lightsteelblue;
   height: 20px;
   width: 20px; }
 
-/* line 126, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 135, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFFE0 {
   background-color: lightyellow;
   height: 20px;
   width: 20px; }
 
-/* line 127, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 136, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00FF00 {
   background-color: lime;
   height: 20px;
   width: 20px; }
 
-/* line 128, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 137, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-32CD32 {
   background-color: limegreen;
   height: 20px;
   width: 20px; }
 
-/* line 129, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 138, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FAF0E6 {
   background-color: linen;
   height: 20px;
   width: 20px; }
 
-/* line 130, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 139, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF00FF {
   background-color: magenta;
   height: 20px;
   width: 20px; }
 
-/* line 131, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 140, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-800000 {
   background-color: maroon;
   height: 20px;
   width: 20px; }
 
-/* line 132, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 141, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-66CDAA {
   background-color: mediumaquamarine;
   height: 20px;
   width: 20px; }
 
-/* line 133, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 142, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-0000CD {
   background-color: mediumblue;
   height: 20px;
   width: 20px; }
 
-/* line 134, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 143, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-BA55D3 {
   background-color: mediumorchid;
   height: 20px;
   width: 20px; }
 
-/* line 135, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 144, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-9370DB {
   background-color: mediumpurple;
   height: 20px;
   width: 20px; }
 
-/* line 136, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 145, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-3CB371 {
   background-color: mediumseagreen;
   height: 20px;
   width: 20px; }
 
-/* line 137, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 146, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-7B68EE {
   background-color: mediumslateblue;
   height: 20px;
   width: 20px; }
 
-/* line 138, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 147, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00FA9A {
   background-color: mediumspringgreen;
   height: 20px;
   width: 20px; }
 
-/* line 139, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 148, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-48D1CC {
   background-color: mediumturquoise;
   height: 20px;
   width: 20px; }
 
-/* line 140, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 149, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-C71585 {
   background-color: mediumvioletred;
   height: 20px;
   width: 20px; }
 
-/* line 141, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 150, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-191970 {
   background-color: midnightblue;
   height: 20px;
   width: 20px; }
 
-/* line 142, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 151, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F5FFFA {
   background-color: mintcream;
   height: 20px;
   width: 20px; }
 
-/* line 143, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 152, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFE4E1 {
   background-color: mistyrose;
   height: 20px;
   width: 20px; }
 
-/* line 144, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 153, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFE4B5 {
   background-color: moccasin;
   height: 20px;
   width: 20px; }
 
-/* line 145, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 154, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFDEAD {
   background-color: navajowhite;
   height: 20px;
   width: 20px; }
 
-/* line 146, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 155, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-000080 {
   background-color: navy;
   height: 20px;
   width: 20px; }
 
-/* line 147, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 156, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FDF5E6 {
   background-color: oldlace;
   height: 20px;
   width: 20px; }
 
-/* line 148, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 157, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-808000 {
   background-color: olive;
   height: 20px;
   width: 20px; }
 
-/* line 149, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 158, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-6B8E23 {
   background-color: olivedrab;
   height: 20px;
   width: 20px; }
 
-/* line 150, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 159, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFA500 {
   background-color: orange;
   height: 20px;
   width: 20px; }
 
-/* line 151, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 160, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF4500 {
   background-color: orangered;
   height: 20px;
   width: 20px; }
 
-/* line 152, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 161, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DA70D6 {
   background-color: orchid;
   height: 20px;
   width: 20px; }
 
-/* line 153, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 162, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-EEE8AA {
   background-color: palegoldenrod;
   height: 20px;
   width: 20px; }
 
-/* line 154, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 163, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-98FB98 {
   background-color: palegreen;
   height: 20px;
   width: 20px; }
 
-/* line 155, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 164, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-AFEEEE {
   background-color: paleturquoise;
   height: 20px;
   width: 20px; }
 
-/* line 156, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 165, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DB7093 {
   background-color: palevioletred;
   height: 20px;
   width: 20px; }
 
-/* line 157, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 166, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFEFD5 {
   background-color: papayawhip;
   height: 20px;
   width: 20px; }
 
-/* line 158, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 167, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFDAB9 {
   background-color: peachpuff;
   height: 20px;
   width: 20px; }
 
-/* line 159, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 168, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-CD853F {
   background-color: peru;
   height: 20px;
   width: 20px; }
 
-/* line 160, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 169, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFC0CB {
   background-color: pink;
   height: 20px;
   width: 20px; }
 
-/* line 161, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 170, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DDA0DD {
   background-color: plum;
   height: 20px;
   width: 20px; }
 
-/* line 162, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 171, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-B0E0E6 {
   background-color: powderblue;
   height: 20px;
   width: 20px; }
 
-/* line 163, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 172, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-800080 {
   background-color: purple;
   height: 20px;
   width: 20px; }
 
-/* line 164, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 173, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF0000 {
   background-color: red;
   height: 20px;
   width: 20px; }
 
-/* line 165, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 174, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-BC8F8F {
   background-color: rosybrown;
   height: 20px;
   width: 20px; }
 
-/* line 166, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 175, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-4169E1 {
   background-color: royalblue;
   height: 20px;
   width: 20px; }
 
-/* line 167, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 176, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-8B4513 {
   background-color: saddlebrown;
   height: 20px;
   width: 20px; }
 
-/* line 168, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 177, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FA8072 {
   background-color: salmon;
   height: 20px;
   width: 20px; }
 
-/* line 169, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 178, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F4A460 {
   background-color: sandybrown;
   height: 20px;
   width: 20px; }
 
-/* line 170, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 179, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-2E8B57 {
   background-color: seagreen;
   height: 20px;
   width: 20px; }
 
-/* line 171, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 180, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFF5EE {
   background-color: seashell;
   height: 20px;
   width: 20px; }
 
-/* line 172, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 181, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-A0522D {
   background-color: sienna;
   height: 20px;
   width: 20px; }
 
-/* line 173, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 182, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-C0C0C0 {
   background-color: silver;
   height: 20px;
   width: 20px; }
 
-/* line 174, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 183, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-87CEEB {
   background-color: skyblue;
   height: 20px;
   width: 20px; }
 
-/* line 175, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 184, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-6A5ACD {
   background-color: slateblue;
   height: 20px;
   width: 20px; }
 
-/* line 176, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 185, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-708090 {
   background-color: slategrey;
   height: 20px;
   width: 20px; }
 
-/* line 177, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 186, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFAFA {
   background-color: snow;
   height: 20px;
   width: 20px; }
 
-/* line 178, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 187, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00FF7F {
   background-color: springgreen;
   height: 20px;
   width: 20px; }
 
-/* line 179, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 188, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-4682B4 {
   background-color: steelblue;
   height: 20px;
   width: 20px; }
 
-/* line 180, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 189, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-D2B48C {
   background-color: tan;
   height: 20px;
   width: 20px; }
 
-/* line 181, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 190, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-008080 {
   background-color: teal;
   height: 20px;
   width: 20px; }
 
-/* line 182, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 191, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-D8BFD8 {
   background-color: thistle;
   height: 20px;
   width: 20px; }
 
-/* line 183, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 192, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF6347 {
   background-color: tomato;
   height: 20px;
   width: 20px; }
 
-/* line 184, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 193, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-40E0D0 {
   background-color: turquoise;
   height: 20px;
   width: 20px; }
 
-/* line 185, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 194, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-EE82EE {
   background-color: violet;
   height: 20px;
   width: 20px; }
 
-/* line 186, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 195, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F5DEB3 {
   background-color: wheat;
   height: 20px;
   width: 20px; }
 
-/* line 187, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 196, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFFFF {
   background-color: white;
   height: 20px;
   width: 20px; }
 
-/* line 188, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 197, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F5F5F5 {
   background-color: whitesmoke;
   height: 20px;
   width: 20px; }
 
-/* line 189, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 198, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFF00 {
   background-color: yellow;
   height: 20px;
   width: 20px; }
 
-/* line 190, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 199, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-9ACD32 {
   background-color: yellowgreen;
   height: 20px;
   width: 20px; }
 
-/* line 192, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 201, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F0F8FF:hover {
   background-color: aliceblue;
   height: 20px;
   width: 20px; }
 
-/* line 193, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 202, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FAEBD7:hover {
   background-color: antiquewhite;
   height: 20px;
   width: 20px; }
 
-/* line 194, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 203, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00FFFF:hover {
   background-color: cyan;
   height: 20px;
   width: 20px; }
 
-/* line 195, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 204, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-7FFFD4:hover {
   background-color: aquamarine;
   height: 20px;
   width: 20px; }
 
-/* line 196, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 205, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F0FFFF:hover {
   background-color: azure;
   height: 20px;
   width: 20px; }
 
-/* line 197, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 206, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F5F5DC:hover {
   background-color: beige;
   height: 20px;
   width: 20px; }
 
-/* line 198, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 207, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFE4C4:hover {
   background-color: bisque;
   height: 20px;
   width: 20px; }
 
-/* line 199, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 208, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-000000:hover {
   background-color: black;
   height: 20px;
   width: 20px; }
 
-/* line 200, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 209, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFEBCD:hover {
   background-color: blanchedalmond;
   height: 20px;
   width: 20px; }
 
-/* line 201, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 210, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-0000FF:hover {
   background-color: blue;
   height: 20px;
   width: 20px; }
 
-/* line 202, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 211, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-8A2BE2:hover {
   background-color: blueviolet;
   height: 20px;
   width: 20px; }
 
-/* line 203, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 212, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-A52A2A:hover {
   background-color: brown;
   height: 20px;
   width: 20px; }
 
-/* line 204, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 213, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DEB887:hover {
   background-color: burlywood;
   height: 20px;
   width: 20px; }
 
-/* line 205, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 214, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-5F9EA0:hover {
   background-color: cadetblue;
   height: 20px;
   width: 20px; }
 
-/* line 206, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 215, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-7FFF00:hover {
   background-color: chartreuse;
   height: 20px;
   width: 20px; }
 
-/* line 207, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 216, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-D2691E:hover {
   background-color: chocolate;
   height: 20px;
   width: 20px; }
 
-/* line 208, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 217, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF7F50:hover {
   background-color: coral;
   height: 20px;
   width: 20px; }
 
-/* line 209, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 218, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-6495ED:hover {
   background-color: cornflowerblue;
   height: 20px;
   width: 20px; }
 
-/* line 210, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 219, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFF8DC:hover {
   background-color: cornsilk;
   height: 20px;
   width: 20px; }
 
-/* line 211, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 220, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DC143C:hover {
   background-color: crimson;
   height: 20px;
   width: 20px; }
 
-/* line 212, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 221, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00FFFF:hover {
   background-color: cyan;
   height: 20px;
   width: 20px; }
 
-/* line 213, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 222, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00008B:hover {
   background-color: darkblue;
   height: 20px;
   width: 20px; }
 
-/* line 214, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 223, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-008B8B:hover {
   background-color: darkcyan;
   height: 20px;
   width: 20px; }
 
-/* line 215, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 224, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-B8860B:hover {
   background-color: darkgoldenrod;
   height: 20px;
   width: 20px; }
 
-/* line 216, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 225, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-A9A9A9:hover {
   background-color: darkgrey;
   height: 20px;
   width: 20px; }
 
-/* line 217, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 226, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-006400:hover {
   background-color: darkgreen;
   height: 20px;
   width: 20px; }
 
-/* line 218, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 227, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-BDB76B:hover {
   background-color: darkkhaki;
   height: 20px;
   width: 20px; }
 
-/* line 219, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 228, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-8B008B:hover {
   background-color: darkmagenta;
   height: 20px;
   width: 20px; }
 
-/* line 220, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 229, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-556B2F:hover {
   background-color: darkolivegreen;
   height: 20px;
   width: 20px; }
 
-/* line 221, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 230, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF8C00:hover {
   background-color: darkorange;
   height: 20px;
   width: 20px; }
 
-/* line 222, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 231, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-9932CC:hover {
   background-color: darkorchid;
   height: 20px;
   width: 20px; }
 
-/* line 223, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 232, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-8B0000:hover {
   background-color: darkred;
   height: 20px;
   width: 20px; }
 
-/* line 224, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 233, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-E9967A:hover {
   background-color: darksalmon;
   height: 20px;
   width: 20px; }
 
-/* line 225, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 234, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-8FBC8F:hover {
   background-color: darkseagreen;
   height: 20px;
   width: 20px; }
 
-/* line 226, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 235, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-483D8B:hover {
   background-color: darkslateblue;
   height: 20px;
   width: 20px; }
 
-/* line 227, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 236, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-2F4F4F:hover {
   background-color: darkslategrey;
   height: 20px;
   width: 20px; }
 
-/* line 228, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 237, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00CED1:hover {
   background-color: darkturquoise;
   height: 20px;
   width: 20px; }
 
-/* line 229, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 238, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-9400D3:hover {
   background-color: darkviolet;
   height: 20px;
   width: 20px; }
 
-/* line 230, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 239, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF1493:hover {
   background-color: deeppink;
   height: 20px;
   width: 20px; }
 
-/* line 231, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 240, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00BFFF:hover {
   background-color: deepskyblue;
   height: 20px;
   width: 20px; }
 
-/* line 232, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 241, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-696969:hover {
   background-color: dimgrey;
   height: 20px;
   width: 20px; }
 
-/* line 233, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 242, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-1E90FF:hover {
   background-color: dodgerblue;
   height: 20px;
   width: 20px; }
 
-/* line 234, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 243, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-B22222:hover {
   background-color: firebrick;
   height: 20px;
   width: 20px; }
 
-/* line 235, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 244, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFAF0:hover {
   background-color: floralwhite;
   height: 20px;
   width: 20px; }
 
-/* line 236, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 245, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-228B22:hover {
   background-color: forestgreen;
   height: 20px;
   width: 20px; }
 
-/* line 237, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 246, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF00FF:hover {
   background-color: magenta;
   height: 20px;
   width: 20px; }
 
-/* line 238, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 247, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DCDCDC:hover {
   background-color: gainsboro;
   height: 20px;
   width: 20px; }
 
-/* line 239, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 248, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F8F8FF:hover {
   background-color: ghostwhite;
   height: 20px;
   width: 20px; }
 
-/* line 240, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 249, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFD700:hover {
   background-color: gold;
   height: 20px;
   width: 20px; }
 
-/* line 241, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 250, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DAA520:hover {
   background-color: goldenrod;
   height: 20px;
   width: 20px; }
 
-/* line 242, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 251, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-808080:hover {
   background-color: gray;
   height: 20px;
   width: 20px; }
 
-/* line 243, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 252, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-008000:hover {
   background-color: green;
   height: 20px;
   width: 20px; }
 
-/* line 244, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 253, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-ADFF2F:hover {
   background-color: greenyellow;
   height: 20px;
   width: 20px; }
 
-/* line 245, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 254, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F0FFF0:hover {
   background-color: honeydew;
   height: 20px;
   width: 20px; }
 
-/* line 246, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 255, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF69B4:hover {
   background-color: hotpink;
   height: 20px;
   width: 20px; }
 
-/* line 247, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 256, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-CD5C5C:hover {
   background-color: indianred;
   height: 20px;
   width: 20px; }
 
-/* line 248, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 257, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-4B0082:hover {
   background-color: indigo;
   height: 20px;
   width: 20px; }
 
-/* line 249, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 258, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFFF0:hover {
   background-color: ivory;
   height: 20px;
   width: 20px; }
 
-/* line 250, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 259, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F0E68C:hover {
   background-color: khaki;
   height: 20px;
   width: 20px; }
 
-/* line 251, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 260, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-E6E6FA:hover {
   background-color: lavender;
   height: 20px;
   width: 20px; }
 
-/* line 252, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 261, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFF0F5:hover {
   background-color: lavenderblush;
   height: 20px;
   width: 20px; }
 
-/* line 253, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 262, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-7CFC00:hover {
   background-color: lawngreen;
   height: 20px;
   width: 20px; }
 
-/* line 254, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 263, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFACD:hover {
   background-color: lemonchiffon;
   height: 20px;
   width: 20px; }
 
-/* line 255, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 264, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-ADD8E6:hover {
   background-color: lightblue;
   height: 20px;
   width: 20px; }
 
-/* line 256, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 265, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F08080:hover {
   background-color: lightcoral;
   height: 20px;
   width: 20px; }
 
-/* line 257, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 266, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-E0FFFF:hover {
   background-color: lightcyan;
   height: 20px;
   width: 20px; }
 
-/* line 258, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 267, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FAFAD2:hover {
   background-color: lightgoldenrodyellow;
   height: 20px;
   width: 20px; }
 
-/* line 259, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 268, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-D3D3D3:hover {
   background-color: lightgrey;
   height: 20px;
   width: 20px; }
 
-/* line 260, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 269, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-90EE90:hover {
   background-color: lightgreen;
   height: 20px;
   width: 20px; }
 
-/* line 261, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 270, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFB6C1:hover {
   background-color: lightpink;
   height: 20px;
   width: 20px; }
 
-/* line 262, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 271, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFA07A:hover {
   background-color: lightsalmon;
   height: 20px;
   width: 20px; }
 
-/* line 263, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 272, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-20B2AA:hover {
   background-color: lightseagreen;
   height: 20px;
   width: 20px; }
 
-/* line 264, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 273, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-87CEFA:hover {
   background-color: lightskyblue;
   height: 20px;
   width: 20px; }
 
-/* line 265, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 274, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-778899:hover {
   background-color: lightslategrey;
   height: 20px;
   width: 20px; }
 
-/* line 266, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 275, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-B0C4DE:hover {
   background-color: lightsteelblue;
   height: 20px;
   width: 20px; }
 
-/* line 267, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 276, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFFE0:hover {
   background-color: lightyellow;
   height: 20px;
   width: 20px; }
 
-/* line 268, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 277, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00FF00:hover {
   background-color: lime;
   height: 20px;
   width: 20px; }
 
-/* line 269, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 278, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-32CD32:hover {
   background-color: limegreen;
   height: 20px;
   width: 20px; }
 
-/* line 270, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 279, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FAF0E6:hover {
   background-color: linen;
   height: 20px;
   width: 20px; }
 
-/* line 271, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 280, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF00FF:hover {
   background-color: magenta;
   height: 20px;
   width: 20px; }
 
-/* line 272, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 281, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-800000:hover {
   background-color: maroon;
   height: 20px;
   width: 20px; }
 
-/* line 273, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 282, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-66CDAA:hover {
   background-color: mediumaquamarine;
   height: 20px;
   width: 20px; }
 
-/* line 274, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 283, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-0000CD:hover {
   background-color: mediumblue;
   height: 20px;
   width: 20px; }
 
-/* line 275, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 284, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-BA55D3:hover {
   background-color: mediumorchid;
   height: 20px;
   width: 20px; }
 
-/* line 276, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 285, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-9370DB:hover {
   background-color: mediumpurple;
   height: 20px;
   width: 20px; }
 
-/* line 277, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 286, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-3CB371:hover {
   background-color: mediumseagreen;
   height: 20px;
   width: 20px; }
 
-/* line 278, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 287, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-7B68EE:hover {
   background-color: mediumslateblue;
   height: 20px;
   width: 20px; }
 
-/* line 279, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 288, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00FA9A:hover {
   background-color: mediumspringgreen;
   height: 20px;
   width: 20px; }
 
-/* line 280, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 289, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-48D1CC:hover {
   background-color: mediumturquoise;
   height: 20px;
   width: 20px; }
 
-/* line 281, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 290, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-C71585:hover {
   background-color: mediumvioletred;
   height: 20px;
   width: 20px; }
 
-/* line 282, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 291, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-191970:hover {
   background-color: midnightblue;
   height: 20px;
   width: 20px; }
 
-/* line 283, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 292, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F5FFFA:hover {
   background-color: mintcream;
   height: 20px;
   width: 20px; }
 
-/* line 284, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 293, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFE4E1:hover {
   background-color: mistyrose;
   height: 20px;
   width: 20px; }
 
-/* line 285, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 294, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFE4B5:hover {
   background-color: moccasin;
   height: 20px;
   width: 20px; }
 
-/* line 286, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 295, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFDEAD:hover {
   background-color: navajowhite;
   height: 20px;
   width: 20px; }
 
-/* line 287, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 296, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-000080:hover {
   background-color: navy;
   height: 20px;
   width: 20px; }
 
-/* line 288, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 297, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FDF5E6:hover {
   background-color: oldlace;
   height: 20px;
   width: 20px; }
 
-/* line 289, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 298, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-808000:hover {
   background-color: olive;
   height: 20px;
   width: 20px; }
 
-/* line 290, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 299, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-6B8E23:hover {
   background-color: olivedrab;
   height: 20px;
   width: 20px; }
 
-/* line 291, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 300, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFA500:hover {
   background-color: orange;
   height: 20px;
   width: 20px; }
 
-/* line 292, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 301, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF4500:hover {
   background-color: orangered;
   height: 20px;
   width: 20px; }
 
-/* line 293, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 302, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DA70D6:hover {
   background-color: orchid;
   height: 20px;
   width: 20px; }
 
-/* line 294, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 303, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-EEE8AA:hover {
   background-color: palegoldenrod;
   height: 20px;
   width: 20px; }
 
-/* line 295, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 304, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-98FB98:hover {
   background-color: palegreen;
   height: 20px;
   width: 20px; }
 
-/* line 296, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 305, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-AFEEEE:hover {
   background-color: paleturquoise;
   height: 20px;
   width: 20px; }
 
-/* line 297, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 306, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DB7093:hover {
   background-color: palevioletred;
   height: 20px;
   width: 20px; }
 
-/* line 298, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 307, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFEFD5:hover {
   background-color: papayawhip;
   height: 20px;
   width: 20px; }
 
-/* line 299, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 308, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFDAB9:hover {
   background-color: peachpuff;
   height: 20px;
   width: 20px; }
 
-/* line 300, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 309, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-CD853F:hover {
   background-color: peru;
   height: 20px;
   width: 20px; }
 
-/* line 301, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 310, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFC0CB:hover {
   background-color: pink;
   height: 20px;
   width: 20px; }
 
-/* line 302, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 311, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DDA0DD:hover {
   background-color: plum;
   height: 20px;
   width: 20px; }
 
-/* line 303, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 312, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-B0E0E6:hover {
   background-color: powderblue;
   height: 20px;
   width: 20px; }
 
-/* line 304, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 313, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-800080:hover {
   background-color: purple;
   height: 20px;
   width: 20px; }
 
-/* line 305, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 314, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF0000:hover {
   background-color: red;
   height: 20px;
   width: 20px; }
 
-/* line 306, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 315, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-BC8F8F:hover {
   background-color: rosybrown;
   height: 20px;
   width: 20px; }
 
-/* line 307, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 316, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-4169E1:hover {
   background-color: royalblue;
   height: 20px;
   width: 20px; }
 
-/* line 308, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 317, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-8B4513:hover {
   background-color: saddlebrown;
   height: 20px;
   width: 20px; }
 
-/* line 309, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 318, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FA8072:hover {
   background-color: salmon;
   height: 20px;
   width: 20px; }
 
-/* line 310, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 319, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F4A460:hover {
   background-color: sandybrown;
   height: 20px;
   width: 20px; }
 
-/* line 311, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 320, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-2E8B57:hover {
   background-color: seagreen;
   height: 20px;
   width: 20px; }
 
-/* line 312, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 321, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFF5EE:hover {
   background-color: seashell;
   height: 20px;
   width: 20px; }
 
-/* line 313, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 322, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-A0522D:hover {
   background-color: sienna;
   height: 20px;
   width: 20px; }
 
-/* line 314, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 323, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-C0C0C0:hover {
   background-color: silver;
   height: 20px;
   width: 20px; }
 
-/* line 315, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 324, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-87CEEB:hover {
   background-color: skyblue;
   height: 20px;
   width: 20px; }
 
-/* line 316, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 325, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-6A5ACD:hover {
   background-color: slateblue;
   height: 20px;
   width: 20px; }
 
-/* line 317, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 326, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-708090:hover {
   background-color: slategrey;
   height: 20px;
   width: 20px; }
 
-/* line 318, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 327, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFAFA:hover {
   background-color: snow;
   height: 20px;
   width: 20px; }
 
-/* line 319, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 328, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00FF7F:hover {
   background-color: springgreen;
   height: 20px;
   width: 20px; }
 
-/* line 320, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 329, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-4682B4:hover {
   background-color: steelblue;
   height: 20px;
   width: 20px; }
 
-/* line 321, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 330, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-D2B48C:hover {
   background-color: tan;
   height: 20px;
   width: 20px; }
 
-/* line 322, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 331, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-008080:hover {
   background-color: teal;
   height: 20px;
   width: 20px; }
 
-/* line 323, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 332, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-D8BFD8:hover {
   background-color: thistle;
   height: 20px;
   width: 20px; }
 
-/* line 324, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 333, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF6347:hover {
   background-color: tomato;
   height: 20px;
   width: 20px; }
 
-/* line 325, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 334, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-40E0D0:hover {
   background-color: turquoise;
   height: 20px;
   width: 20px; }
 
-/* line 326, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 335, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-EE82EE:hover {
   background-color: violet;
   height: 20px;
   width: 20px; }
 
-/* line 327, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 336, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F5DEB3:hover {
   background-color: wheat;
   height: 20px;
   width: 20px; }
 
-/* line 328, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 337, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFFFF:hover {
   background-color: white;
   height: 20px;
   width: 20px; }
 
-/* line 329, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 338, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F5F5F5:hover {
   background-color: whitesmoke;
   height: 20px;
   width: 20px; }
 
-/* line 330, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 339, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFF00:hover {
   background-color: yellow;
   height: 20px;
   width: 20px; }
 
-/* line 331, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 340, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-9ACD32:hover {
   background-color: yellowgreen;
   height: 20px;
   width: 20px; }
 
-/* line 333, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 342, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F0F8FF:focus {
   background-color: aliceblue;
   height: 20px;
   width: 20px; }
 
-/* line 334, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 343, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FAEBD7:focus {
   background-color: antiquewhite;
   height: 20px;
   width: 20px; }
 
-/* line 335, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 344, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00FFFF:focus {
   background-color: cyan;
   height: 20px;
   width: 20px; }
 
-/* line 336, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 345, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-7FFFD4:focus {
   background-color: aquamarine;
   height: 20px;
   width: 20px; }
 
-/* line 337, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 346, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F0FFFF:focus {
   background-color: azure;
   height: 20px;
   width: 20px; }
 
-/* line 338, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 347, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F5F5DC:focus {
   background-color: beige;
   height: 20px;
   width: 20px; }
 
-/* line 339, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 348, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFE4C4:focus {
   background-color: bisque;
   height: 20px;
   width: 20px; }
 
-/* line 340, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 349, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-000000:focus {
   background-color: black;
   height: 20px;
   width: 20px; }
 
-/* line 341, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 350, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFEBCD:focus {
   background-color: blanchedalmond;
   height: 20px;
   width: 20px; }
 
-/* line 342, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 351, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-0000FF:focus {
   background-color: blue;
   height: 20px;
   width: 20px; }
 
-/* line 343, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 352, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-8A2BE2:focus {
   background-color: blueviolet;
   height: 20px;
   width: 20px; }
 
-/* line 344, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 353, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-A52A2A:focus {
   background-color: brown;
   height: 20px;
   width: 20px; }
 
-/* line 345, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 354, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DEB887:focus {
   background-color: burlywood;
   height: 20px;
   width: 20px; }
 
-/* line 346, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 355, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-5F9EA0:focus {
   background-color: cadetblue;
   height: 20px;
   width: 20px; }
 
-/* line 347, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 356, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-7FFF00:focus {
   background-color: chartreuse;
   height: 20px;
   width: 20px; }
 
-/* line 348, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 357, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-D2691E:focus {
   background-color: chocolate;
   height: 20px;
   width: 20px; }
 
-/* line 349, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 358, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF7F50:focus {
   background-color: coral;
   height: 20px;
   width: 20px; }
 
-/* line 350, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 359, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-6495ED:focus {
   background-color: cornflowerblue;
   height: 20px;
   width: 20px; }
 
-/* line 351, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 360, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFF8DC:focus {
   background-color: cornsilk;
   height: 20px;
   width: 20px; }
 
-/* line 352, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 361, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DC143C:focus {
   background-color: crimson;
   height: 20px;
   width: 20px; }
 
-/* line 353, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 362, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00FFFF:focus {
   background-color: cyan;
   height: 20px;
   width: 20px; }
 
-/* line 354, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 363, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00008B:focus {
   background-color: darkblue;
   height: 20px;
   width: 20px; }
 
-/* line 355, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 364, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-008B8B:focus {
   background-color: darkcyan;
   height: 20px;
   width: 20px; }
 
-/* line 356, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 365, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-B8860B:focus {
   background-color: darkgoldenrod;
   height: 20px;
   width: 20px; }
 
-/* line 357, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 366, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-A9A9A9:focus {
   background-color: darkgrey;
   height: 20px;
   width: 20px; }
 
-/* line 358, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 367, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-006400:focus {
   background-color: darkgreen;
   height: 20px;
   width: 20px; }
 
-/* line 359, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 368, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-BDB76B:focus {
   background-color: darkkhaki;
   height: 20px;
   width: 20px; }
 
-/* line 360, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 369, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-8B008B:focus {
   background-color: darkmagenta;
   height: 20px;
   width: 20px; }
 
-/* line 361, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 370, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-556B2F:focus {
   background-color: darkolivegreen;
   height: 20px;
   width: 20px; }
 
-/* line 362, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 371, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF8C00:focus {
   background-color: darkorange;
   height: 20px;
   width: 20px; }
 
-/* line 363, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 372, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-9932CC:focus {
   background-color: darkorchid;
   height: 20px;
   width: 20px; }
 
-/* line 364, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 373, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-8B0000:focus {
   background-color: darkred;
   height: 20px;
   width: 20px; }
 
-/* line 365, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 374, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-E9967A:focus {
   background-color: darksalmon;
   height: 20px;
   width: 20px; }
 
-/* line 366, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 375, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-8FBC8F:focus {
   background-color: darkseagreen;
   height: 20px;
   width: 20px; }
 
-/* line 367, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 376, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-483D8B:focus {
   background-color: darkslateblue;
   height: 20px;
   width: 20px; }
 
-/* line 368, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 377, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-2F4F4F:focus {
   background-color: darkslategrey;
   height: 20px;
   width: 20px; }
 
-/* line 369, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 378, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00CED1:focus {
   background-color: darkturquoise;
   height: 20px;
   width: 20px; }
 
-/* line 370, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 379, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-9400D3:focus {
   background-color: darkviolet;
   height: 20px;
   width: 20px; }
 
-/* line 371, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 380, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF1493:focus {
   background-color: deeppink;
   height: 20px;
   width: 20px; }
 
-/* line 372, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 381, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00BFFF:focus {
   background-color: deepskyblue;
   height: 20px;
   width: 20px; }
 
-/* line 373, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 382, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-696969:focus {
   background-color: dimgrey;
   height: 20px;
   width: 20px; }
 
-/* line 374, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 383, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-1E90FF:focus {
   background-color: dodgerblue;
   height: 20px;
   width: 20px; }
 
-/* line 375, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 384, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-B22222:focus {
   background-color: firebrick;
   height: 20px;
   width: 20px; }
 
-/* line 376, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 385, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFAF0:focus {
   background-color: floralwhite;
   height: 20px;
   width: 20px; }
 
-/* line 377, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 386, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-228B22:focus {
   background-color: forestgreen;
   height: 20px;
   width: 20px; }
 
-/* line 378, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 387, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF00FF:focus {
   background-color: magenta;
   height: 20px;
   width: 20px; }
 
-/* line 379, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 388, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DCDCDC:focus {
   background-color: gainsboro;
   height: 20px;
   width: 20px; }
 
-/* line 380, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 389, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F8F8FF:focus {
   background-color: ghostwhite;
   height: 20px;
   width: 20px; }
 
-/* line 381, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 390, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFD700:focus {
   background-color: gold;
   height: 20px;
   width: 20px; }
 
-/* line 382, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 391, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DAA520:focus {
   background-color: goldenrod;
   height: 20px;
   width: 20px; }
 
-/* line 383, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 392, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-808080:focus {
   background-color: gray;
   height: 20px;
   width: 20px; }
 
-/* line 384, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 393, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-008000:focus {
   background-color: green;
   height: 20px;
   width: 20px; }
 
-/* line 385, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 394, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-ADFF2F:focus {
   background-color: greenyellow;
   height: 20px;
   width: 20px; }
 
-/* line 386, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 395, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F0FFF0:focus {
   background-color: honeydew;
   height: 20px;
   width: 20px; }
 
-/* line 387, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 396, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF69B4:focus {
   background-color: hotpink;
   height: 20px;
   width: 20px; }
 
-/* line 388, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 397, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-CD5C5C:focus {
   background-color: indianred;
   height: 20px;
   width: 20px; }
 
-/* line 389, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 398, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-4B0082:focus {
   background-color: indigo;
   height: 20px;
   width: 20px; }
 
-/* line 390, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 399, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFFF0:focus {
   background-color: ivory;
   height: 20px;
   width: 20px; }
 
-/* line 391, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 400, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F0E68C:focus {
   background-color: khaki;
   height: 20px;
   width: 20px; }
 
-/* line 392, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 401, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-E6E6FA:focus {
   background-color: lavender;
   height: 20px;
   width: 20px; }
 
-/* line 393, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 402, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFF0F5:focus {
   background-color: lavenderblush;
   height: 20px;
   width: 20px; }
 
-/* line 394, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 403, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-7CFC00:focus {
   background-color: lawngreen;
   height: 20px;
   width: 20px; }
 
-/* line 395, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 404, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFACD:focus {
   background-color: lemonchiffon;
   height: 20px;
   width: 20px; }
 
-/* line 396, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 405, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-ADD8E6:focus {
   background-color: lightblue;
   height: 20px;
   width: 20px; }
 
-/* line 397, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 406, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F08080:focus {
   background-color: lightcoral;
   height: 20px;
   width: 20px; }
 
-/* line 398, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 407, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-E0FFFF:focus {
   background-color: lightcyan;
   height: 20px;
   width: 20px; }
 
-/* line 399, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 408, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FAFAD2:focus {
   background-color: lightgoldenrodyellow;
   height: 20px;
   width: 20px; }
 
-/* line 400, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 409, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-D3D3D3:focus {
   background-color: lightgrey;
   height: 20px;
   width: 20px; }
 
-/* line 401, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 410, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-90EE90:focus {
   background-color: lightgreen;
   height: 20px;
   width: 20px; }
 
-/* line 402, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 411, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFB6C1:focus {
   background-color: lightpink;
   height: 20px;
   width: 20px; }
 
-/* line 403, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 412, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFA07A:focus {
   background-color: lightsalmon;
   height: 20px;
   width: 20px; }
 
-/* line 404, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 413, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-20B2AA:focus {
   background-color: lightseagreen;
   height: 20px;
   width: 20px; }
 
-/* line 405, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 414, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-87CEFA:focus {
   background-color: lightskyblue;
   height: 20px;
   width: 20px; }
 
-/* line 406, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 415, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-778899:focus {
   background-color: lightslategrey;
   height: 20px;
   width: 20px; }
 
-/* line 407, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 416, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-B0C4DE:focus {
   background-color: lightsteelblue;
   height: 20px;
   width: 20px; }
 
-/* line 408, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 417, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFFE0:focus {
   background-color: lightyellow;
   height: 20px;
   width: 20px; }
 
-/* line 409, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 418, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00FF00:focus {
   background-color: lime;
   height: 20px;
   width: 20px; }
 
-/* line 410, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 419, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-32CD32:focus {
   background-color: limegreen;
   height: 20px;
   width: 20px; }
 
-/* line 411, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 420, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FAF0E6:focus {
   background-color: linen;
   height: 20px;
   width: 20px; }
 
-/* line 412, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 421, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF00FF:focus {
   background-color: magenta;
   height: 20px;
   width: 20px; }
 
-/* line 413, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 422, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-800000:focus {
   background-color: maroon;
   height: 20px;
   width: 20px; }
 
-/* line 414, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 423, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-66CDAA:focus {
   background-color: mediumaquamarine;
   height: 20px;
   width: 20px; }
 
-/* line 415, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 424, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-0000CD:focus {
   background-color: mediumblue;
   height: 20px;
   width: 20px; }
 
-/* line 416, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 425, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-BA55D3:focus {
   background-color: mediumorchid;
   height: 20px;
   width: 20px; }
 
-/* line 417, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 426, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-9370DB:focus {
   background-color: mediumpurple;
   height: 20px;
   width: 20px; }
 
-/* line 418, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 427, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-3CB371:focus {
   background-color: mediumseagreen;
   height: 20px;
   width: 20px; }
 
-/* line 419, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 428, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-7B68EE:focus {
   background-color: mediumslateblue;
   height: 20px;
   width: 20px; }
 
-/* line 420, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 429, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00FA9A:focus {
   background-color: mediumspringgreen;
   height: 20px;
   width: 20px; }
 
-/* line 421, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 430, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-48D1CC:focus {
   background-color: mediumturquoise;
   height: 20px;
   width: 20px; }
 
-/* line 422, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 431, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-C71585:focus {
   background-color: mediumvioletred;
   height: 20px;
   width: 20px; }
 
-/* line 423, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 432, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-191970:focus {
   background-color: midnightblue;
   height: 20px;
   width: 20px; }
 
-/* line 424, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 433, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F5FFFA:focus {
   background-color: mintcream;
   height: 20px;
   width: 20px; }
 
-/* line 425, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 434, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFE4E1:focus {
   background-color: mistyrose;
   height: 20px;
   width: 20px; }
 
-/* line 426, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 435, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFE4B5:focus {
   background-color: moccasin;
   height: 20px;
   width: 20px; }
 
-/* line 427, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 436, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFDEAD:focus {
   background-color: navajowhite;
   height: 20px;
   width: 20px; }
 
-/* line 428, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 437, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-000080:focus {
   background-color: navy;
   height: 20px;
   width: 20px; }
 
-/* line 429, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 438, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FDF5E6:focus {
   background-color: oldlace;
   height: 20px;
   width: 20px; }
 
-/* line 430, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 439, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-808000:focus {
   background-color: olive;
   height: 20px;
   width: 20px; }
 
-/* line 431, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 440, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-6B8E23:focus {
   background-color: olivedrab;
   height: 20px;
   width: 20px; }
 
-/* line 432, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 441, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFA500:focus {
   background-color: orange;
   height: 20px;
   width: 20px; }
 
-/* line 433, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 442, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF4500:focus {
   background-color: orangered;
   height: 20px;
   width: 20px; }
 
-/* line 434, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 443, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DA70D6:focus {
   background-color: orchid;
   height: 20px;
   width: 20px; }
 
-/* line 435, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 444, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-EEE8AA:focus {
   background-color: palegoldenrod;
   height: 20px;
   width: 20px; }
 
-/* line 436, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 445, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-98FB98:focus {
   background-color: palegreen;
   height: 20px;
   width: 20px; }
 
-/* line 437, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 446, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-AFEEEE:focus {
   background-color: paleturquoise;
   height: 20px;
   width: 20px; }
 
-/* line 438, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 447, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DB7093:focus {
   background-color: palevioletred;
   height: 20px;
   width: 20px; }
 
-/* line 439, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 448, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFEFD5:focus {
   background-color: papayawhip;
   height: 20px;
   width: 20px; }
 
-/* line 440, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 449, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFDAB9:focus {
   background-color: peachpuff;
   height: 20px;
   width: 20px; }
 
-/* line 441, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 450, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-CD853F:focus {
   background-color: peru;
   height: 20px;
   width: 20px; }
 
-/* line 442, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 451, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFC0CB:focus {
   background-color: pink;
   height: 20px;
   width: 20px; }
 
-/* line 443, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 452, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DDA0DD:focus {
   background-color: plum;
   height: 20px;
   width: 20px; }
 
-/* line 444, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 453, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-B0E0E6:focus {
   background-color: powderblue;
   height: 20px;
   width: 20px; }
 
-/* line 445, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 454, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-800080:focus {
   background-color: purple;
   height: 20px;
   width: 20px; }
 
-/* line 446, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 455, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF0000:focus {
   background-color: red;
   height: 20px;
   width: 20px; }
 
-/* line 447, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 456, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-BC8F8F:focus {
   background-color: rosybrown;
   height: 20px;
   width: 20px; }
 
-/* line 448, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 457, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-4169E1:focus {
   background-color: royalblue;
   height: 20px;
   width: 20px; }
 
-/* line 449, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 458, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-8B4513:focus {
   background-color: saddlebrown;
   height: 20px;
   width: 20px; }
 
-/* line 450, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 459, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FA8072:focus {
   background-color: salmon;
   height: 20px;
   width: 20px; }
 
-/* line 451, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 460, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F4A460:focus {
   background-color: sandybrown;
   height: 20px;
   width: 20px; }
 
-/* line 452, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 461, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-2E8B57:focus {
   background-color: seagreen;
   height: 20px;
   width: 20px; }
 
-/* line 453, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 462, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFF5EE:focus {
   background-color: seashell;
   height: 20px;
   width: 20px; }
 
-/* line 454, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 463, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-A0522D:focus {
   background-color: sienna;
   height: 20px;
   width: 20px; }
 
-/* line 455, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 464, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-C0C0C0:focus {
   background-color: silver;
   height: 20px;
   width: 20px; }
 
-/* line 456, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 465, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-87CEEB:focus {
   background-color: skyblue;
   height: 20px;
   width: 20px; }
 
-/* line 457, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 466, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-6A5ACD:focus {
   background-color: slateblue;
   height: 20px;
   width: 20px; }
 
-/* line 458, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 467, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-708090:focus {
   background-color: slategrey;
   height: 20px;
   width: 20px; }
 
-/* line 459, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 468, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFAFA:focus {
   background-color: snow;
   height: 20px;
   width: 20px; }
 
-/* line 460, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 469, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00FF7F:focus {
   background-color: springgreen;
   height: 20px;
   width: 20px; }
 
-/* line 461, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 470, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-4682B4:focus {
   background-color: steelblue;
   height: 20px;
   width: 20px; }
 
-/* line 462, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 471, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-D2B48C:focus {
   background-color: tan;
   height: 20px;
   width: 20px; }
 
-/* line 463, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 472, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-008080:focus {
   background-color: teal;
   height: 20px;
   width: 20px; }
 
-/* line 464, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 473, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-D8BFD8:focus {
   background-color: thistle;
   height: 20px;
   width: 20px; }
 
-/* line 465, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 474, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF6347:focus {
   background-color: tomato;
   height: 20px;
   width: 20px; }
 
-/* line 466, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 475, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-40E0D0:focus {
   background-color: turquoise;
   height: 20px;
   width: 20px; }
 
-/* line 467, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 476, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-EE82EE:focus {
   background-color: violet;
   height: 20px;
   width: 20px; }
 
-/* line 468, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 477, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F5DEB3:focus {
   background-color: wheat;
   height: 20px;
   width: 20px; }
 
-/* line 469, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 478, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFFFF:focus {
   background-color: white;
   height: 20px;
   width: 20px; }
 
-/* line 470, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 479, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F5F5F5:focus {
   background-color: whitesmoke;
   height: 20px;
   width: 20px; }
 
-/* line 471, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 480, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFF00:focus {
   background-color: yellow;
   height: 20px;
   width: 20px; }
 
-/* line 472, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 481, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-9ACD32:focus {
   background-color: yellowgreen;
   height: 20px;
   width: 20px; }
 
-/* line 474, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 483, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F0F8FF:active {
   background-color: aliceblue;
   height: 20px;
   width: 20px; }
 
-/* line 475, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 484, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FAEBD7:active {
   background-color: antiquewhite;
   height: 20px;
   width: 20px; }
 
-/* line 476, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 485, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00FFFF:active {
   background-color: cyan;
   height: 20px;
   width: 20px; }
 
-/* line 477, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 486, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-7FFFD4:active {
   background-color: aquamarine;
   height: 20px;
   width: 20px; }
 
-/* line 478, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 487, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F0FFFF:active {
   background-color: azure;
   height: 20px;
   width: 20px; }
 
-/* line 479, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 488, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F5F5DC:active {
   background-color: beige;
   height: 20px;
   width: 20px; }
 
-/* line 480, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 489, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFE4C4:active {
   background-color: bisque;
   height: 20px;
   width: 20px; }
 
-/* line 481, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 490, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-000000:active {
   background-color: black;
   height: 20px;
   width: 20px; }
 
-/* line 482, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 491, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFEBCD:active {
   background-color: blanchedalmond;
   height: 20px;
   width: 20px; }
 
-/* line 483, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 492, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-0000FF:active {
   background-color: blue;
   height: 20px;
   width: 20px; }
 
-/* line 484, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 493, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-8A2BE2:active {
   background-color: blueviolet;
   height: 20px;
   width: 20px; }
 
-/* line 485, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 494, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-A52A2A:active {
   background-color: brown;
   height: 20px;
   width: 20px; }
 
-/* line 486, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 495, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DEB887:active {
   background-color: burlywood;
   height: 20px;
   width: 20px; }
 
-/* line 487, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 496, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-5F9EA0:active {
   background-color: cadetblue;
   height: 20px;
   width: 20px; }
 
-/* line 488, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 497, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-7FFF00:active {
   background-color: chartreuse;
   height: 20px;
   width: 20px; }
 
-/* line 489, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 498, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-D2691E:active {
   background-color: chocolate;
   height: 20px;
   width: 20px; }
 
-/* line 490, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 499, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF7F50:active {
   background-color: coral;
   height: 20px;
   width: 20px; }
 
-/* line 491, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 500, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-6495ED:active {
   background-color: cornflowerblue;
   height: 20px;
   width: 20px; }
 
-/* line 492, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 501, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFF8DC:active {
   background-color: cornsilk;
   height: 20px;
   width: 20px; }
 
-/* line 493, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 502, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DC143C:active {
   background-color: crimson;
   height: 20px;
   width: 20px; }
 
-/* line 494, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 503, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00FFFF:active {
   background-color: cyan;
   height: 20px;
   width: 20px; }
 
-/* line 495, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 504, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00008B:active {
   background-color: darkblue;
   height: 20px;
   width: 20px; }
 
-/* line 496, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 505, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-008B8B:active {
   background-color: darkcyan;
   height: 20px;
   width: 20px; }
 
-/* line 497, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 506, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-B8860B:active {
   background-color: darkgoldenrod;
   height: 20px;
   width: 20px; }
 
-/* line 498, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 507, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-A9A9A9:active {
   background-color: darkgrey;
   height: 20px;
   width: 20px; }
 
-/* line 499, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 508, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-006400:active {
   background-color: darkgreen;
   height: 20px;
   width: 20px; }
 
-/* line 500, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 509, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-BDB76B:active {
   background-color: darkkhaki;
   height: 20px;
   width: 20px; }
 
-/* line 501, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 510, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-8B008B:active {
   background-color: darkmagenta;
   height: 20px;
   width: 20px; }
 
-/* line 502, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 511, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-556B2F:active {
   background-color: darkolivegreen;
   height: 20px;
   width: 20px; }
 
-/* line 503, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 512, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF8C00:active {
   background-color: darkorange;
   height: 20px;
   width: 20px; }
 
-/* line 504, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 513, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-9932CC:active {
   background-color: darkorchid;
   height: 20px;
   width: 20px; }
 
-/* line 505, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 514, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-8B0000:active {
   background-color: darkred;
   height: 20px;
   width: 20px; }
 
-/* line 506, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 515, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-E9967A:active {
   background-color: darksalmon;
   height: 20px;
   width: 20px; }
 
-/* line 507, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 516, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-8FBC8F:active {
   background-color: darkseagreen;
   height: 20px;
   width: 20px; }
 
-/* line 508, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 517, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-483D8B:active {
   background-color: darkslateblue;
   height: 20px;
   width: 20px; }
 
-/* line 509, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 518, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-2F4F4F:active {
   background-color: darkslategrey;
   height: 20px;
   width: 20px; }
 
-/* line 510, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 519, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00CED1:active {
   background-color: darkturquoise;
   height: 20px;
   width: 20px; }
 
-/* line 511, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 520, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-9400D3:active {
   background-color: darkviolet;
   height: 20px;
   width: 20px; }
 
-/* line 512, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 521, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF1493:active {
   background-color: deeppink;
   height: 20px;
   width: 20px; }
 
-/* line 513, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 522, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00BFFF:active {
   background-color: deepskyblue;
   height: 20px;
   width: 20px; }
 
-/* line 514, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 523, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-696969:active {
   background-color: dimgrey;
   height: 20px;
   width: 20px; }
 
-/* line 515, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 524, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-1E90FF:active {
   background-color: dodgerblue;
   height: 20px;
   width: 20px; }
 
-/* line 516, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 525, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-B22222:active {
   background-color: firebrick;
   height: 20px;
   width: 20px; }
 
-/* line 517, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 526, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFAF0:active {
   background-color: floralwhite;
   height: 20px;
   width: 20px; }
 
-/* line 518, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 527, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-228B22:active {
   background-color: forestgreen;
   height: 20px;
   width: 20px; }
 
-/* line 519, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 528, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF00FF:active {
   background-color: magenta;
   height: 20px;
   width: 20px; }
 
-/* line 520, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 529, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DCDCDC:active {
   background-color: gainsboro;
   height: 20px;
   width: 20px; }
 
-/* line 521, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 530, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F8F8FF:active {
   background-color: ghostwhite;
   height: 20px;
   width: 20px; }
 
-/* line 522, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 531, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFD700:active {
   background-color: gold;
   height: 20px;
   width: 20px; }
 
-/* line 523, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 532, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DAA520:active {
   background-color: goldenrod;
   height: 20px;
   width: 20px; }
 
-/* line 524, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 533, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-808080:active {
   background-color: gray;
   height: 20px;
   width: 20px; }
 
-/* line 525, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 534, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-008000:active {
   background-color: green;
   height: 20px;
   width: 20px; }
 
-/* line 526, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 535, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-ADFF2F:active {
   background-color: greenyellow;
   height: 20px;
   width: 20px; }
 
-/* line 527, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 536, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F0FFF0:active {
   background-color: honeydew;
   height: 20px;
   width: 20px; }
 
-/* line 528, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 537, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF69B4:active {
   background-color: hotpink;
   height: 20px;
   width: 20px; }
 
-/* line 529, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 538, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-CD5C5C:active {
   background-color: indianred;
   height: 20px;
   width: 20px; }
 
-/* line 530, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 539, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-4B0082:active {
   background-color: indigo;
   height: 20px;
   width: 20px; }
 
-/* line 531, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 540, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFFF0:active {
   background-color: ivory;
   height: 20px;
   width: 20px; }
 
-/* line 532, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 541, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F0E68C:active {
   background-color: khaki;
   height: 20px;
   width: 20px; }
 
-/* line 533, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 542, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-E6E6FA:active {
   background-color: lavender;
   height: 20px;
   width: 20px; }
 
-/* line 534, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 543, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFF0F5:active {
   background-color: lavenderblush;
   height: 20px;
   width: 20px; }
 
-/* line 535, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 544, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-7CFC00:active {
   background-color: lawngreen;
   height: 20px;
   width: 20px; }
 
-/* line 536, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 545, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFACD:active {
   background-color: lemonchiffon;
   height: 20px;
   width: 20px; }
 
-/* line 537, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 546, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-ADD8E6:active {
   background-color: lightblue;
   height: 20px;
   width: 20px; }
 
-/* line 538, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 547, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F08080:active {
   background-color: lightcoral;
   height: 20px;
   width: 20px; }
 
-/* line 539, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 548, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-E0FFFF:active {
   background-color: lightcyan;
   height: 20px;
   width: 20px; }
 
-/* line 540, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 549, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FAFAD2:active {
   background-color: lightgoldenrodyellow;
   height: 20px;
   width: 20px; }
 
-/* line 541, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 550, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-D3D3D3:active {
   background-color: lightgrey;
   height: 20px;
   width: 20px; }
 
-/* line 542, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 551, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-90EE90:active {
   background-color: lightgreen;
   height: 20px;
   width: 20px; }
 
-/* line 543, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 552, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFB6C1:active {
   background-color: lightpink;
   height: 20px;
   width: 20px; }
 
-/* line 544, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 553, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFA07A:active {
   background-color: lightsalmon;
   height: 20px;
   width: 20px; }
 
-/* line 545, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 554, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-20B2AA:active {
   background-color: lightseagreen;
   height: 20px;
   width: 20px; }
 
-/* line 546, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 555, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-87CEFA:active {
   background-color: lightskyblue;
   height: 20px;
   width: 20px; }
 
-/* line 547, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 556, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-778899:active {
   background-color: lightslategrey;
   height: 20px;
   width: 20px; }
 
-/* line 548, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 557, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-B0C4DE:active {
   background-color: lightsteelblue;
   height: 20px;
   width: 20px; }
 
-/* line 549, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 558, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFFE0:active {
   background-color: lightyellow;
   height: 20px;
   width: 20px; }
 
-/* line 550, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 559, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00FF00:active {
   background-color: lime;
   height: 20px;
   width: 20px; }
 
-/* line 551, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 560, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-32CD32:active {
   background-color: limegreen;
   height: 20px;
   width: 20px; }
 
-/* line 552, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 561, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FAF0E6:active {
   background-color: linen;
   height: 20px;
   width: 20px; }
 
-/* line 553, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 562, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF00FF:active {
   background-color: magenta;
   height: 20px;
   width: 20px; }
 
-/* line 554, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 563, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-800000:active {
   background-color: maroon;
   height: 20px;
   width: 20px; }
 
-/* line 555, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 564, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-66CDAA:active {
   background-color: mediumaquamarine;
   height: 20px;
   width: 20px; }
 
-/* line 556, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 565, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-0000CD:active {
   background-color: mediumblue;
   height: 20px;
   width: 20px; }
 
-/* line 557, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 566, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-BA55D3:active {
   background-color: mediumorchid;
   height: 20px;
   width: 20px; }
 
-/* line 558, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 567, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-9370DB:active {
   background-color: mediumpurple;
   height: 20px;
   width: 20px; }
 
-/* line 559, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 568, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-3CB371:active {
   background-color: mediumseagreen;
   height: 20px;
   width: 20px; }
 
-/* line 560, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 569, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-7B68EE:active {
   background-color: mediumslateblue;
   height: 20px;
   width: 20px; }
 
-/* line 561, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 570, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00FA9A:active {
   background-color: mediumspringgreen;
   height: 20px;
   width: 20px; }
 
-/* line 562, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 571, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-48D1CC:active {
   background-color: mediumturquoise;
   height: 20px;
   width: 20px; }
 
-/* line 563, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 572, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-C71585:active {
   background-color: mediumvioletred;
   height: 20px;
   width: 20px; }
 
-/* line 564, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 573, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-191970:active {
   background-color: midnightblue;
   height: 20px;
   width: 20px; }
 
-/* line 565, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 574, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F5FFFA:active {
   background-color: mintcream;
   height: 20px;
   width: 20px; }
 
-/* line 566, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 575, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFE4E1:active {
   background-color: mistyrose;
   height: 20px;
   width: 20px; }
 
-/* line 567, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 576, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFE4B5:active {
   background-color: moccasin;
   height: 20px;
   width: 20px; }
 
-/* line 568, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 577, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFDEAD:active {
   background-color: navajowhite;
   height: 20px;
   width: 20px; }
 
-/* line 569, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 578, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-000080:active {
   background-color: navy;
   height: 20px;
   width: 20px; }
 
-/* line 570, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 579, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FDF5E6:active {
   background-color: oldlace;
   height: 20px;
   width: 20px; }
 
-/* line 571, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 580, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-808000:active {
   background-color: olive;
   height: 20px;
   width: 20px; }
 
-/* line 572, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 581, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-6B8E23:active {
   background-color: olivedrab;
   height: 20px;
   width: 20px; }
 
-/* line 573, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 582, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFA500:active {
   background-color: orange;
   height: 20px;
   width: 20px; }
 
-/* line 574, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 583, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF4500:active {
   background-color: orangered;
   height: 20px;
   width: 20px; }
 
-/* line 575, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 584, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DA70D6:active {
   background-color: orchid;
   height: 20px;
   width: 20px; }
 
-/* line 576, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 585, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-EEE8AA:active {
   background-color: palegoldenrod;
   height: 20px;
   width: 20px; }
 
-/* line 577, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 586, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-98FB98:active {
   background-color: palegreen;
   height: 20px;
   width: 20px; }
 
-/* line 578, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 587, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-AFEEEE:active {
   background-color: paleturquoise;
   height: 20px;
   width: 20px; }
 
-/* line 579, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 588, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DB7093:active {
   background-color: palevioletred;
   height: 20px;
   width: 20px; }
 
-/* line 580, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 589, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFEFD5:active {
   background-color: papayawhip;
   height: 20px;
   width: 20px; }
 
-/* line 581, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 590, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFDAB9:active {
   background-color: peachpuff;
   height: 20px;
   width: 20px; }
 
-/* line 582, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 591, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-CD853F:active {
   background-color: peru;
   height: 20px;
   width: 20px; }
 
-/* line 583, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 592, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFC0CB:active {
   background-color: pink;
   height: 20px;
   width: 20px; }
 
-/* line 584, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 593, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-DDA0DD:active {
   background-color: plum;
   height: 20px;
   width: 20px; }
 
-/* line 585, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 594, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-B0E0E6:active {
   background-color: powderblue;
   height: 20px;
   width: 20px; }
 
-/* line 586, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 595, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-800080:active {
   background-color: purple;
   height: 20px;
   width: 20px; }
 
-/* line 587, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 596, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF0000:active {
   background-color: red;
   height: 20px;
   width: 20px; }
 
-/* line 588, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 597, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-BC8F8F:active {
   background-color: rosybrown;
   height: 20px;
   width: 20px; }
 
-/* line 589, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 598, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-4169E1:active {
   background-color: royalblue;
   height: 20px;
   width: 20px; }
 
-/* line 590, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 599, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-8B4513:active {
   background-color: saddlebrown;
   height: 20px;
   width: 20px; }
 
-/* line 591, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 600, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FA8072:active {
   background-color: salmon;
   height: 20px;
   width: 20px; }
 
-/* line 592, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 601, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F4A460:active {
   background-color: sandybrown;
   height: 20px;
   width: 20px; }
 
-/* line 593, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 602, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-2E8B57:active {
   background-color: seagreen;
   height: 20px;
   width: 20px; }
 
-/* line 594, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 603, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFF5EE:active {
   background-color: seashell;
   height: 20px;
   width: 20px; }
 
-/* line 595, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 604, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-A0522D:active {
   background-color: sienna;
   height: 20px;
   width: 20px; }
 
-/* line 596, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 605, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-C0C0C0:active {
   background-color: silver;
   height: 20px;
   width: 20px; }
 
-/* line 597, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 606, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-87CEEB:active {
   background-color: skyblue;
   height: 20px;
   width: 20px; }
 
-/* line 598, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 607, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-6A5ACD:active {
   background-color: slateblue;
   height: 20px;
   width: 20px; }
 
-/* line 599, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 608, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-708090:active {
   background-color: slategrey;
   height: 20px;
   width: 20px; }
 
-/* line 600, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 609, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFAFA:active {
   background-color: snow;
   height: 20px;
   width: 20px; }
 
-/* line 601, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 610, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-00FF7F:active {
   background-color: springgreen;
   height: 20px;
   width: 20px; }
 
-/* line 602, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 611, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-4682B4:active {
   background-color: steelblue;
   height: 20px;
   width: 20px; }
 
-/* line 603, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 612, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-D2B48C:active {
   background-color: tan;
   height: 20px;
   width: 20px; }
 
-/* line 604, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 613, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-008080:active {
   background-color: teal;
   height: 20px;
   width: 20px; }
 
-/* line 605, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 614, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-D8BFD8:active {
   background-color: thistle;
   height: 20px;
   width: 20px; }
 
-/* line 606, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 615, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FF6347:active {
   background-color: tomato;
   height: 20px;
   width: 20px; }
 
-/* line 607, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 616, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-40E0D0:active {
   background-color: turquoise;
   height: 20px;
   width: 20px; }
 
-/* line 608, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 617, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-EE82EE:active {
   background-color: violet;
   height: 20px;
   width: 20px; }
 
-/* line 609, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 618, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F5DEB3:active {
   background-color: wheat;
   height: 20px;
   width: 20px; }
 
-/* line 610, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 619, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFFFF:active {
   background-color: white;
   height: 20px;
   width: 20px; }
 
-/* line 611, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 620, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-F5F5F5:active {
   background-color: whitesmoke;
   height: 20px;
   width: 20px; }
 
-/* line 612, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 621, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-FFFF00:active {
   background-color: yellow;
   height: 20px;
   width: 20px; }
 
-/* line 613, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
+/* line 622, /home/cgautam/apps/search_by_color/source/stylesheets/all.css.scss */
 .color-9ACD32:active {
   background-color: yellowgreen;
   height: 20px;
