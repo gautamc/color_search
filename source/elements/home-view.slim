@@ -3,6 +3,11 @@ link rel="import" href="./polymer-ajax/polymer-ajax.html"
 
 polymer-element name="home-view" attributes="params"
   template
+
+    template if="{{loading}}"
+      div#loading
+        | Fetching objects...
+
     div.row#search-bar
       div.col-md-10.top-margin
         colors-list

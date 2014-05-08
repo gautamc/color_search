@@ -4,6 +4,7 @@ Polymer(
 
         ready: function(){
             this.params = {};
+            this.loading = false;
 
             jQuery(this.$.color_picker).spectrum({
                 preferredFormat: "hex",
@@ -21,7 +22,7 @@ Polymer(
         },
 
         render: function(){
-            //console.log(" SHOW LOADING MSG ");
+            this.loading = true;
             var ajax = this.$.rately_feed;
             ajax.body = JSON.stringify( { payload: { colors: [this.params.input == null ? "" : this.params.input], keywords: ["candle"] } } );
             ajax.go();
@@ -35,7 +36,7 @@ Polymer(
         },
 
         feed_results_complete_callback: function(response, xhr) {
-            //console.log(" HIDE LOADING MSG ");
+            this.loading = false;
         }
 
     }

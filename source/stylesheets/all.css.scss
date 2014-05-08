@@ -10,6 +10,15 @@ $sibling-elem-margin: 2px;
   margin-top: $margin-top;
 }
 
+#loading {
+  position: fixed;
+  top: 0px;
+  left: 45%;
+  padding: 10px;
+  border: 1px solid #000000;
+  background-color: #FF0000;
+}
+
 .sibling-elem-margin {
   margin: $sibling-elem-margin;
 }
