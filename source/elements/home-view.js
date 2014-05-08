@@ -10,7 +10,11 @@ Polymer(
                 preferredFormat: "hex",
                 flat: true,
                 showInput: true,
-                allowEmpty:true
+                allowEmpty:true,
+                cancelText: "",
+                change: function(color) {
+                    window.location.href = window.location.origin + "#color/" + color.toHexString();
+                }
             });
         },
 
