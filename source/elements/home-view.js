@@ -4,7 +4,6 @@ Polymer(
 
         ready: function(){
             this.params = {};
-            this.results = "";
 
             jQuery(this.$.color_picker).spectrum({
                 preferredFormat: "hex",
@@ -22,19 +21,21 @@ Polymer(
         },
 
         render: function(){
-            this.results = this.params.input ?
-                "Query and Display results for color: " + this.params.input :
-                "No color selected";
+            //console.log(" SHOW LOADING MSG ");
             var ajax = this.$.rately_feed;
             ajax.body = JSON.stringify( { payload: { colors: [this.params.input == null ? "" : this.params.input], keywords: ["candle"] } } );
             ajax.go();
         },
 
-        feed_results_callback: function(e) {
+        feed_results_callback: function(response, xhr) {
             var listing_element = this.$.results_listing;
             listing_element.model = {
-                response: e.detail.response
+                response: response.detail.response
             }
+        },
+
+        feed_results_complete_callback: function(response, xhr) {
+            //console.log(" HIDE LOADING MSG ");
         }
 
     }

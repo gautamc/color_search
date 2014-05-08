@@ -10,8 +10,8 @@ polymer-element name="home-view" attributes="params"
       div.col-md-2.top-margin#color-picker-box
         input type="text" id="color_picker"
 
-    polymer-ajax id="rately_feed" method="POST" url="http://rately.com/api/products/search" body="" contentType="application/json" handleAs="json" on-polymer-response="{{feed_results_callback}}"
-    /polymer-ajax id="rately_feed" url="./json/colorsearch.json" params="" contentType="application/json" handleAs="json" on-polymer-response="{{feed_results_callback}}"
+    /polymer-ajax id="rately_feed" method="POST" url="http://rately.com/api/products/search" body="" contentType="application/json" handleAs="json" on-polymer-response="{{feed_results_callback}}" on-polymer-complete="{{feed_results_complete_callback}}"
+    polymer-ajax id="rately_feed" url="./json/colorsearch.json" params="" contentType="application/json" handleAs="json" on-polymer-response="{{feed_results_callback}}" on-polymer-complete="{{feed_results_complete_callback}}"
 
     div.row
       div.col-md-12.top-margin#results-view
